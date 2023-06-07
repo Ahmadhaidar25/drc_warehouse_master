@@ -1,0 +1,1036 @@
+<!DOCTYPE HTML>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head><script data-no-optimize="1">var litespeed_docref=sessionStorage.getItem("litespeed_docref");litespeed_docref&&(Object.defineProperty(document,"referrer",{get:function(){return litespeed_docref}}),sessionStorage.removeItem("litespeed_docref"));</script>
+<meta charset="UTF-8">
+<title>5 Cara Sederhana Mengelola Stok Barang di Gudang</title>
+<meta name='robots' content='max-image-preview:large' />
+<script>window._wca = window._wca || [];</script>
+
+<meta name="description" content="Mengelola stok barang merupakan tantangan terbesar bagi perusahaan yang memiliki banyak cabang. Mengapa begitu? Hal ini karena sulitnya untuk mengontrol" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="5 Cara Sederhana Mengelola Stok Barang di Gudang" />
+<meta property="og:description" content="Mengelola stok barang merupakan tantangan terbesar bagi perusahaan yang memiliki banyak cabang. Mengapa begitu? Hal ini karena sulitnya untuk mengontrol" />
+<meta property="og:url" content="https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/" />
+<meta property="og:site_name" content="Proxsis Surabaya" />
+<meta property="article:tag" content="manajemen pergudangan" />
+<meta property="article:tag" content="training warehouse" />
+<meta property="article:tag" content="warehouse management system" />
+<meta property="article:section" content="Artikel Quality &amp; Productivity" />
+<meta property="article:published_time" content="2018-03-06T10:55:47+07:00" />
+<meta property="article:modified_time" content="2021-04-09T13:47:51+07:00" />
+<meta property="og:updated_time" content="2021-04-09T13:47:51+07:00" />
+<meta property="og:image" content="https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/5-Cara-Sederhana-Mengelola-Stok-Barang-di-Gudang.jpeg" />
+<meta property="og:image:width" content="570" />
+<meta property="og:image:height" content="300" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Mengelola stok barang merupakan tantangan terbesar bagi perusahaan yang memiliki banyak cabang. Mengapa begitu? Hal ini karena sulitnya untuk mengontrol" />
+<meta name="twitter:title" content="5 Cara Sederhana Mengelola Stok Barang di Gudang" />
+<meta name="twitter:image" content="https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/5-Cara-Sederhana-Mengelola-Stok-Barang-di-Gudang.jpeg" />
+<meta property="DC.date.issued" content="2018-03-06T10:55:47+07:00" />
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//hcaptcha.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Proxsis Surabaya &raquo; Feed" href="https://surabaya.proxsisgroup.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Proxsis Surabaya &raquo; Comments Feed" href="https://surabaya.proxsisgroup.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Proxsis Surabaya &raquo; 5 Cara Sederhana Mengelola Stok Barang di Gudang Comments Feed" href="https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/feed/" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<meta name="theme-color" content="#f5f5f5">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/surabaya.proxsisgroup.com\/wp-includes\/js\/wp-emoji.js?ver=6.1.1","twemoji":"https:\/\/surabaya.proxsisgroup.com\/wp-includes\/js\/twemoji.js?ver=6.1.1"}};
+/**
+ * @output wp-includes/js/wp-emoji-loader.js
+ */
+
+( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	// Create a canvas element for testing native browser support of emoji.
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Checks if two sets of Emoji characters render the same visually.
+	 *
+	 * @since 4.9.0
+	 *
+	 * @private
+	 *
+	 * @param {number[]} set1 Set of Emoji character codes.
+	 * @param {number[]} set2 Set of Emoji character codes.
+	 *
+	 * @return {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		var stringFromCharCode = String.fromCharCode;
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set1 ), 0, 0 );
+		var rendered1 = canvas.toDataURL();
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set2 ), 0, 0 );
+		var rendered2 = canvas.toDataURL();
+
+		return rendered1 === rendered2;
+	}
+
+	/**
+	 * Detects if the browser supports rendering emoji or flag emoji.
+	 *
+	 * Flag emoji are a single glyph made of two characters, so some browsers
+	 * (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @private
+	 *
+	 * @param {string} type Whether to test for support of "flag" or "emoji".
+	 *
+	 * @return {boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var isIdentical;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for Transgender flag compatibility. This flag is shortlisted for the Emoji 13 spec,
+				 * but has landed in Twemoji early, so we can add support for it, too.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + transgender symbol).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 0x1F3F3, 0xFE0F, 0x200D, 0x26A7, 0xFE0F ],
+					[ 0x1F3F3, 0xFE0F, 0x200B, 0x26A7, 0xFE0F ]
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 0xD83C, 0xDDFA, 0xD83C, 0xDDF3 ],
+					[ 0xD83C, 0xDDFA, 0x200B, 0xD83C, 0xDDF3 ]
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 0xD83C, 0xDFF4, 0xDB40, 0xDC67, 0xDB40, 0xDC62, 0xDB40, 0xDC65, 0xDB40, 0xDC6E, 0xDB40, 0xDC67, 0xDB40, 0xDC7F ],
+					[ 0xD83C, 0xDFF4, 0x200B, 0xDB40, 0xDC67, 0x200B, 0xDB40, 0xDC62, 0x200B, 0xDB40, 0xDC65, 0x200B, 0xDB40, 0xDC6E, 0x200B, 0xDB40, 0xDC67, 0x200B, 0xDB40, 0xDC7F ]
+				);
+
+				return ! isIdentical;
+			case 'emoji':
+				/*
+				 * Why can't we be friends? Everyone can now shake hands in emoji, regardless of skin tone!
+				 *
+				 * To test for Emoji 14.0 support, try to render a new emoji: Handshake: Light Skin Tone, Dark Skin Tone.
+				 *
+				 * The Handshake: Light Skin Tone, Dark Skin Tone emoji is a ZWJ sequence combining 🫱 Rightwards Hand,
+				 * 🏻 Light Skin Tone, a Zero Width Joiner, 🫲 Leftwards Hand, and 🏿 Dark Skin Tone.
+				 *
+				 * 0x1FAF1 == Rightwards Hand
+				 * 0x1F3FB == Light Skin Tone
+				 * 0x200D == Zero-Width Joiner (ZWJ) that links the code points for the new emoji or
+				 * 0x200B == Zero-Width Space (ZWS) that is rendered for clients not supporting the new emoji.
+				 * 0x1FAF2 == Leftwards Hand
+				 * 0x1F3FF == Dark Skin Tone.
+				 *
+				 * When updating this test for future Emoji releases, ensure that individual emoji that make up the
+				 * sequence come from older emoji standards.
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[0x1FAF1, 0x1F3FB, 0x200D, 0x1FAF2, 0x1F3FF],
+					[0x1FAF1, 0x1F3FB, 0x200B, 0x1FAF2, 0x1F3FF]
+				);
+
+				return ! isIdentical;
+		}
+
+		return false;
+	}
+
+	/**
+	 * Adds a script to the head of the document.
+	 *
+	 * @ignore
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param {Object} src The url where the script is located.
+	 * @return {void}
+	 */
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	/*
+	 * Tests the browser support for flag emojis and other emojis, and adjusts the
+	 * support settings accordingly.
+	 */
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	// Sets DOMReady to false and assigns a ready function to settings.
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	// When the browser can not render everything we need to load a polyfill.
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		/*
+		 * Cross-browser version of adding a dom ready event.
+		 */
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jetpack_related-posts-css' href='https://c0.wp.com/p/jetpack/12.1/modules/related-posts/related-posts.css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/6.1.1/wp-includes/css/dist/block-library/style.css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='jetpack-videopress-video-block-view-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-videopress/build/block-editor/blocks/video/view.css?minify=false&#038;ver=317afd605f368082816f' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.1.1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.1.1/wp-includes/js/mediaelement/wp-mediaelement.css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://c0.wp.com/p/woocommerce/7.4.1/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://c0.wp.com/p/woocommerce/7.4.1/packages/woocommerce-blocks/build/wc-blocks-style.css' media='all' />
+<style id='joinchat-button-style-inline-css'>
+.wp-block-joinchat-button{border:none!important;text-align:center}.wp-block-joinchat-button figure{display:table;margin:0 auto;padding:0}.wp-block-joinchat-button figcaption{font:normal normal 400 .6em/2em var(--wp--preset--font-family--system-font,sans-serif);margin:0;padding:0}.wp-block-joinchat-button .joinchat-button__qr{background-color:#fff;border:6px solid #25d366;border-radius:30px;box-sizing:content-box;display:block;height:200px;margin:auto;overflow:hidden;padding:10px;width:200px}.wp-block-joinchat-button .joinchat-button__qr canvas,.wp-block-joinchat-button .joinchat-button__qr img{display:block;margin:auto}.wp-block-joinchat-button .joinchat-button__link{align-items:center;background-color:#25d366;border:6px solid #25d366;border-radius:30px;display:inline-flex;flex-flow:row nowrap;justify-content:center;line-height:1.25em;margin:0 auto;text-decoration:none}.wp-block-joinchat-button .joinchat-button__link:before{background:transparent var(--joinchat-ico) no-repeat center;background-size:100%;content:"";display:block;height:1.5em;margin:-.75em .75em -.75em 0;width:1.5em}.wp-block-joinchat-button figure+.joinchat-button__link{margin-top:10px}@media (orientation:landscape)and (min-height:481px),(orientation:portrait)and (min-width:481px){.wp-block-joinchat-button.joinchat-button--qr-only figure+.joinchat-button__link{display:none}}@media (max-width:480px),(orientation:landscape)and (max-height:480px){.wp-block-joinchat-button figure{display:none}}
+
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://c0.wp.com/c/6.1.1/wp-includes/css/classic-themes.css' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='buddymeet-css-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/buddymeet/assets/css/buddymeet.css?ver=1.8.0' media='screen' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.3.6' media='all' />
+<style id='rs-plugin-settings-inline-css'>
+#rs-demo-id {}
+</style>
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='jetpack_likes-css' href='https://c0.wp.com/p/jetpack/12.1/modules/likes/style.css' media='all' />
+<link rel='stylesheet' id='us-fonts-css' href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%7COpen+Sans%3A400%2C700&#038;display=swap&#038;ver=6.1.1' media='all' />
+<link rel='stylesheet' id='jetpack-subscriptions-css' href='https://c0.wp.com/p/jetpack/12.1/modules/subscriptions/subscriptions.css' media='all' />
+<link rel='stylesheet' id='joinchat-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/creame-whatsapp-me/public/css/joinchat-btn.css?ver=4.5.14' media='all' />
+<link rel='stylesheet' id='us-style-css' href='https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/css/style.min.css?ver=8.2.1' media='all' />
+<link rel='stylesheet' id='us-woocommerce-css' href='https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/common/css/plugins/woocommerce.min.css?ver=8.2.1' media='all' />
+<link rel='stylesheet' id='yikes-inc-easy-mailchimp-public-styles-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/yikes-inc-easy-mailchimp-extender/public/css/yikes-inc-easy-mailchimp-extender-public.min.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css' href='https://surabaya.proxsisgroup.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=3.19.9' media='all' />
+<link rel='stylesheet' id='ultimate-style-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.min.css?ver=3.19.9' media='all' />
+<link rel='stylesheet' id='wpdevelop-bts-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/assets/libs/bootstrap-css/css/bootstrap.css?ver=3.3.5.1' media='all' />
+<link rel='stylesheet' id='wpdevelop-bts-theme-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/assets/libs/bootstrap-css/css/bootstrap-theme.css?ver=3.3.5.1' media='all' />
+<link rel='stylesheet' id='wpbc-tippy-popover-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/assets/libs/tippy.js/themes/wpbc-tippy-popover.css?ver=6.3.7' media='all' />
+<link rel='stylesheet' id='wpbc-tippy-times-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/assets/libs/tippy.js/themes/wpbc-tippy-times.css?ver=6.3.7' media='all' />
+<link rel='stylesheet' id='wpbc-material-design-icons-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/assets/libs/material-design-icons/material-design-icons.css?ver=4.0.0' media='all' />
+<link rel='stylesheet' id='wpbc-time_picker-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/css/wpbc_time-selector.css?ver=9.4.2' media='all' />
+<link rel='stylesheet' id='wpbc-time_picker-skin-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/css/time_picker_skins/orange.css?ver=9.4.2' media='all' />
+<link rel='stylesheet' id='wpbc-client-pages-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/css/client.css?ver=9.4.2' media='all' />
+<link rel='stylesheet' id='wpbc-calendar-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/css/calendar.css?ver=9.4.2' media='all' />
+<link rel='stylesheet' id='wpbc-calendar-skin-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/css/skins/traditional-light.css?ver=9.4.2' media='all' />
+<link rel='stylesheet' id='wpbc-flex-timeline-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/core/timeline/v2/css/timeline_v2.css?ver=9.4.2' media='all' />
+<link rel='stylesheet' id='wpbc-flex-timeline-skin-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/core/timeline/v2/css/timeline_skin_v2.css?ver=9.4.2' media='all' />
+<script id='jetpack_related-posts-js-extra'>
+var related_posts_js_options = {"post_heading":"h4"};
+</script>
+<script src='https://c0.wp.com/p/jetpack/12.1/modules/related-posts/related-posts.js' id='jetpack_related-posts-js'></script>
+<script src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.3.6' id='tp-tools-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.3.6' id='revmin-js'></script>
+<script defer src='https://stats.wp.com/s-202318.js' id='woocommerce-analytics-js'></script>
+<script id='yikes-easy-mc-ajax-js-extra'>
+var yikes_mailchimp_ajax = {"ajax_url":"https:\/\/surabaya.proxsisgroup.com\/wp-admin\/admin-ajax.php","page_data":"14243","interest_group_checkbox_error":"This field is required.","preloader_url":"https:\/\/surabaya.proxsisgroup.com\/wp-content\/plugins\/yikes-inc-easy-mailchimp-extender\/includes\/images\/ripple.svg","loading_dots":"https:\/\/surabaya.proxsisgroup.com\/wp-content\/plugins\/yikes-inc-easy-mailchimp-extender\/includes\/images\/bars.svg","ajax_security_nonce":"5edf820b32","feedback_message_placement":"before"};
+</script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/yikes-inc-easy-mailchimp-extender/public/js/yikes-mc-ajax-forms.js?ver=6.8.6' id='yikes-easy-mc-ajax-js'></script>
+<script id='form-submission-helpers-js-extra'>
+var form_submission_helpers = {"ajax_url":"https:\/\/surabaya.proxsisgroup.com\/wp-admin\/admin-ajax.php","preloader_url":"https:\/\/surabaya.proxsisgroup.com\/wp-admin\/images\/wpspin_light.gif","countries_with_zip":{"US":"US","GB":"GB","CA":"CA","IE":"IE","CN":"CN","IN":"IN","AU":"AU","BR":"BR","MX":"MX","IT":"IT","NZ":"NZ","JP":"JP","FR":"FR","GR":"GR","DE":"DE","NL":"NL","PT":"PT","ES":"ES"},"page_data":"14243"};
+</script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/yikes-inc-easy-mailchimp-extender/public/js/form-submission-helpers.js?ver=6.8.6' id='form-submission-helpers-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.19.9' id='ultimate-vc-params-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.min.js?ver=3.19.9' id='ultimate-custom-js'></script>
+<script id='wpbc-global-vars-js-extra'>
+var wpbcg = {"time_disable_modes":["single"]};
+var wpbc_global1 = {"wpbc_ajaxurl":"https:\/\/surabaya.proxsisgroup.com\/wp-admin\/admin-ajax.php","wpdev_bk_plugin_url":"https:\/\/surabaya.proxsisgroup.com\/wp-content\/plugins\/booking","wpdev_bk_today":"[2023,5,5,17,14]","visible_booking_id_on_page":"[]","booking_max_monthes_in_calendar":"1y","user_unavilable_days":"[0,6,999]","wpdev_bk_edit_id_hash":"","wpdev_bk_plugin_filename":"wpdev-booking.php","bk_days_selection_mode":"single","wpdev_bk_personal":"0","block_some_dates_from_today":"0","message_verif_requred":"This field is required","message_verif_requred_for_check_box":"This checkbox must be checked","message_verif_requred_for_radio_box":"At least one option must be selected","message_verif_emeil":"Incorrect email field","message_verif_same_emeil":"Your emails do not match","message_verif_selectdts":"Please, select booking date(s) at Calendar.","parent_booking_resources":"[]","new_booking_title":"Thank you for your booking.  We will send confirmation of your booking as soon as possible.","new_booking_title_time":"5000","type_of_thank_you_message":"message","thank_you_page_URL":"https:\/\/surabaya.proxsisgroup.com\/thank-you","is_am_pm_inside_time":"true","is_booking_used_check_in_out_time":"false","wpbc_active_locale":"en_US","wpbc_message_processing":"Processing","wpbc_message_deleting":"Deleting","wpbc_message_updating":"Updating","wpbc_message_saving":"Saving","message_checkinouttime_error":"Error! Please reset your check-in\/check-out dates above.","message_starttime_error":"Start Time is invalid. The date or time may be booked, or already in the past! Please choose another date or time.","message_endtime_error":"End Time is invalid. The date or time may be booked, or already in the past. The End Time may also be earlier that the start time, if only 1 day was selected! Please choose another date or time.","message_rangetime_error":"The time(s) may be booked, or already in the past!","message_durationtime_error":"The time(s) may be booked, or already in the past!","bk_highlight_timeslot_word":"Times:"};
+</script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/js/wpbc_vars.js?ver=9.4.2' id='wpbc-global-vars-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/assets/libs/popper/popper.js?ver=2.11.2' id='wpbc-popper-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/assets/libs/tippy.js/dist/tippy-bundle.umd.js?ver=6.3.7' id='wpbc-tipcy-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/js/datepick/jquery.datepick.wpbc.9.0.js?ver=9.0' id='wpbc-datepick-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/js/client.js?ver=9.4.2' id='wpbc-main-client-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/js/wpbc_times.js?ver=9.4.2' id='wpbc-times-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/js/wpbc_time-selector.js?ver=9.4.2' id='wpbc-time-selector-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/booking/core/timeline/v2/_out/timeline_v2.js?ver=9.4.2' id='wpbc-timeline-flex-js'></script>
+<link rel="https://api.w.org/" href="https://surabaya.proxsisgroup.com/wp-json/" /><link rel="alternate" type="application/json" href="https://surabaya.proxsisgroup.com/wp-json/wp/v2/posts/14243" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://surabaya.proxsisgroup.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://surabaya.proxsisgroup.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<meta name="generator" content="WooCommerce 7.4.1" />
+<link rel='shortlink' href='https://surabaya.proxsisgroup.com/?p=14243' />
+<link rel="alternate" type="application/json+oembed" href="https://surabaya.proxsisgroup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsurabaya.proxsisgroup.com%2F5-cara-sederhana-mengelola-stok-barang-di-gudang%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://surabaya.proxsisgroup.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsurabaya.proxsisgroup.com%2F5-cara-sederhana-mengelola-stok-barang-di-gudang%2F&#038;format=xml" />
+<style>
+			div.wpforms-container-full .wpforms-form .h-captcha,
+			#wpforo #wpforo-wrap div .h-captcha,
+			.h-captcha {
+				position: relative;
+				display: block;
+				margin-bottom: 2rem;
+				padding: 0;
+				clear: both;
+			}
+			.gform_previous_button + .h-captcha {
+				margin-top: 2rem;
+			}
+			#wpforo #wpforo-wrap.wpft-topic div .h-captcha,
+			#wpforo #wpforo-wrap.wpft-forum div .h-captcha {
+				margin: 0 -20px;
+			}
+			.wpdm-button-area + .h-captcha {
+				margin-bottom: 1rem;
+			}
+			.w3eden .btn-primary {
+				background-color: var(--color-primary) !important;
+				color: #fff !important;
+			}
+			div.wpforms-container-full .wpforms-form .h-captcha[data-size="normal"],
+			.h-captcha[data-size="normal"] {
+				width: 303px;
+				height: 78px;
+			}
+			div.wpforms-container-full .wpforms-form .h-captcha[data-size="compact"],
+			.h-captcha[data-size="compact"] {
+				width: 164px;
+				height: 144px;
+			}
+			div.wpforms-container-full .wpforms-form .h-captcha[data-size="invisible"],
+			.h-captcha[data-size="invisible"] {
+				display: none;
+			}
+			.h-captcha::before {
+				content: '';
+				display: block;
+				position: absolute;
+				top: 0;
+				left: 0;
+				background: url(https://surabaya.proxsisgroup.com/wp-content/plugins/hcaptcha-for-forms-and-more/assets/images/hcaptcha-div-logo.svg) no-repeat;
+				border: 1px solid transparent;
+				border-radius: 4px;
+			}
+			.h-captcha[data-size="normal"]::before {
+				width: 300px;
+				height: 74px;
+				background-position: 94% 27%;
+			}
+			.h-captcha[data-size="compact"]::before {
+				width: 156px;
+				height: 136px;
+				background-position: 50% 77%;
+			}
+			.h-captcha[data-theme="light"]::before {
+				background-color: #fafafa;
+				border: 1px solid #e0e0e0;
+			}
+			.h-captcha[data-theme="dark"]::before {
+				background-color: #333;
+				border: 1px solid #f5f5f5;
+			}
+			.h-captcha[data-size="invisible"]::before {
+				display: none;
+			}
+			div.wpforms-container-full .wpforms-form .h-captcha iframe,
+			.h-captcha iframe {
+				position: relative;
+			}
+			span[data-name="hcap-cf7"] .h-captcha {
+				margin-bottom: 0;
+			}
+			span[data-name="hcap-cf7"] ~ input[type="submit"] {
+				margin-top: 2rem;
+			}
+			.elementor-field-type-hcaptcha .elementor-field {
+				background: transparent !important;
+			}
+			.elementor-field-type-hcaptcha .h-captcha {
+				margin-bottom: unset;
+			}
+			div[style*="z-index: 2147483647"] div[style*="border-width: 11px"][style*="position: absolute"][style*="pointer-events: none"] {
+				border-style: none;
+			}
+		</style>
+<style>img#wpstats{display:none}</style>
+<script>
+			if ( ! /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test( navigator.userAgent ) ) {
+				var root = document.getElementsByTagName( 'html' )[ 0 ]
+				root.className += " no-touch";
+			}
+		</script>
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<meta name="description" content="Mengelola stok barang merupakan tantangan terbesar bagi perusahaan yang memiliki banyak cabang. Mengapa begitu? Hal ini karena sulitnya untuk mengontrol barang yang ada di cabang, apalagi jika cabang Anda tidak hanya satu. Jika bisnis Anda bergerak di bidang jual beli rumah atau mobil, ini mungkin akan sedikit mudah karena barang yang dijual berukuran besar dan&hellip;" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+<meta name="generator" content="Powered by Slider Revolution 6.3.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://surabaya.proxsisgroup.com/wp-content/uploads/2019/03/cropped-PROXSIS1png-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://surabaya.proxsisgroup.com/wp-content/uploads/2019/03/cropped-PROXSIS1png-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://surabaya.proxsisgroup.com/wp-content/uploads/2019/03/cropped-PROXSIS1png-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://surabaya.proxsisgroup.com/wp-content/uploads/2019/03/cropped-PROXSIS1png-1-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript> <style id="us-icon-fonts">@font-face{font-display:block;font-style:normal;font-family:"fontawesome";font-weight:900;src:url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/fa-solid-900.woff2?ver=8.2.1") format("woff2"),url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/fa-solid-900.woff?ver=8.2.1") format("woff")}.fas{font-family:"fontawesome";font-weight:900}@font-face{font-display:block;font-style:normal;font-family:"fontawesome";font-weight:400;src:url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/fa-regular-400.woff2?ver=8.2.1") format("woff2"),url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/fa-regular-400.woff?ver=8.2.1") format("woff")}.far{font-family:"fontawesome";font-weight:400}@font-face{font-display:block;font-style:normal;font-family:"fontawesome";font-weight:300;src:url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/fa-light-300.woff2?ver=8.2.1") format("woff2"),url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/fa-light-300.woff?ver=8.2.1") format("woff")}.fal{font-family:"fontawesome";font-weight:300}@font-face{font-display:block;font-style:normal;font-family:"Font Awesome 5 Duotone";font-weight:900;src:url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/fa-duotone-900.woff2?ver=8.2.1") format("woff2"),url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/fa-duotone-900.woff?ver=8.2.1") format("woff")}.fad{font-family:"Font Awesome 5 Duotone";font-weight:900}.fad{position:relative}.fad:before{position:absolute}.fad:after{opacity:0.4}@font-face{font-display:block;font-style:normal;font-family:"Font Awesome 5 Brands";font-weight:400;src:url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/fa-brands-400.woff2?ver=8.2.1") format("woff2"),url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/fa-brands-400.woff?ver=8.2.1") format("woff")}.fab{font-family:"Font Awesome 5 Brands";font-weight:400}@font-face{font-display:block;font-style:normal;font-family:"Material Icons";font-weight:400;src:url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/material-icons.woff2?ver=8.2.1") format("woff2"),url("https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/fonts/material-icons.woff?ver=8.2.1") format("woff")}.material-icons{font-family:"Material Icons";font-weight:400}</style>
+<style id="us-theme-options-css">:root{--color-header-middle-bg:#f5f5f5;--color-header-middle-bg-grad:#f5f5f5;--color-header-middle-text:#000000;--color-header-middle-text-hover:#77000D;--color-header-transparent-bg:transparent;--color-header-transparent-bg-grad:transparent;--color-header-transparent-text:#ffffff;--color-header-transparent-text-hover:#bfbfbf;--color-chrome-toolbar:#f5f5f5;--color-chrome-toolbar-grad:#f5f5f5;--color-header-top-bg:#f5f5f5;--color-header-top-bg-grad:#f5f5f5;--color-header-top-text:#000000;--color-header-top-text-hover:#77000D;--color-header-top-transparent-bg:rgba(0,0,0,0.2);--color-header-top-transparent-bg-grad:rgba(0,0,0,0.2);--color-header-top-transparent-text:rgba(255,255,255,0.66);--color-header-top-transparent-text-hover:#bfbfbf;--color-content-bg:#ffffff;--color-content-bg-grad:#ffffff;--color-content-bg-alt:#f5f5f5;--color-content-bg-alt-grad:#f5f5f5;--color-content-border:#e8e8e8;--color-content-heading:#1a1a1a;--color-content-heading-grad:#1a1a1a;--color-content-text:#333333;--color-content-link:#77000D;--color-content-link-hover:#cf0017;--color-content-primary:#77000D;--color-content-primary-grad:#77000D;--color-content-secondary:#EBE9E2;--color-content-secondary-grad:#EBE9E2;--color-content-faded:#999999;--color-content-overlay:rgba(0,0,0,0.75);--color-content-overlay-grad:rgba(0,0,0,0.75);--color-alt-content-bg:#f5f5f5;--color-alt-content-bg-grad:#f5f5f5;--color-alt-content-bg-alt:#ffffff;--color-alt-content-bg-alt-grad:#ffffff;--color-alt-content-border:#dddddd;--color-alt-content-heading:#1a1a1a;--color-alt-content-heading-grad:#1a1a1a;--color-alt-content-text:#333333;--color-alt-content-link:#77000D;--color-alt-content-link-hover:#cf0017;--color-alt-content-primary:#77000D;--color-alt-content-primary-grad:#77000D;--color-alt-content-secondary:#EBE9E2;--color-alt-content-secondary-grad:#EBE9E2;--color-alt-content-faded:#999999;--color-alt-content-overlay:#e95095;--color-alt-content-overlay-grad:linear-gradient(135deg,#e95095,rgba(233,80,149,0.75));--color-footer-bg:#222222;--color-footer-bg-grad:#222222;--color-footer-bg-alt:#1a1a1a;--color-footer-bg-alt-grad:#1a1a1a;--color-footer-border:#333333;--color-footer-text:#999999;--color-footer-link:#cccccc;--color-footer-link-hover:#77000D;--color-subfooter-bg:#1a1a1a;--color-subfooter-bg-grad:#1a1a1a;--color-subfooter-bg-alt:#222222;--color-subfooter-bg-alt-grad:#222222;--color-subfooter-border:#282828;--color-subfooter-text:#bbbbbb;--color-subfooter-link:#ffffff;--color-subfooter-link-hover:77000D;--color-content-primary-faded:rgba(119,0,13,0.15);--box-shadow:0 5px 15px rgba(0,0,0,.15);--box-shadow-up:0 -5px 15px rgba(0,0,0,.15);--site-content-width:1280px;--font-body:"Open Sans",sans-serif;--font-h1:"Poppins",sans-serif;--font-h2:"Poppins",sans-serif;--font-h3:"Poppins",sans-serif;--font-h4:"Poppins",sans-serif;--font-h5:"Poppins",sans-serif;--font-h6:"Poppins",sans-serif}.has-content-primary-color{color:var(--color-content-primary)}.has-content-primary-background-color{background:var(--color-content-primary-grad)}.has-content-secondary-color{color:var(--color-content-secondary)}.has-content-secondary-background-color{background:var(--color-content-secondary-grad)}.has-content-heading-color{color:var(--color-content-heading)}.has-content-heading-background-color{background:var(--color-content-heading-grad)}.has-content-text-color{color:var(--color-content-text)}.has-content-text-background-color{background:var(--color-content-text-grad)}.has-content-faded-color{color:var(--color-content-faded)}.has-content-faded-background-color{background:var(--color-content-faded-grad)}.has-content-border-color{color:var(--color-content-border)}.has-content-border-background-color{background:var(--color-content-border-grad)}.has-content-bg-alt-color{color:var(--color-content-bg-alt)}.has-content-bg-alt-background-color{background:var(--color-content-bg-alt-grad)}.has-content-bg-color{color:var(--color-content-bg)}.has-content-bg-background-color{background:var(--color-content-bg-grad)}html,.l-header .widget,.menu-item-object-us_page_block{font-family:var(--font-body);font-weight:400;font-size:16px;line-height:28px}h1{font-family:var(--font-h1);font-weight:400;font-size:2.8rem;line-height:1.2;letter-spacing:0.03em;margin-bottom:1.5rem}h2{font-family:var(--font-h2);font-weight:500;font-size:2.5rem;line-height:1.2;letter-spacing:0.03em;margin-bottom:1.5rem}h3{font-family:var(--font-h3);font-weight:500;font-size:2rem;line-height:1.2;letter-spacing:0.03em;margin-bottom:1.5rem}.woocommerce-Reviews-title,.widgettitle,h4{font-family:var(--font-h4);font-weight:500;font-size:1.7rem;line-height:1.4;letter-spacing:0.03em;margin-bottom:1.5rem}h5{font-family:var(--font-h5);font-weight:500;font-size:1.5rem;line-height:1.4;letter-spacing:0.03em;margin-bottom:1.5rem}h6{font-family:var(--font-h6);font-weight:400;font-size:1.2rem;line-height:1.4;letter-spacing:0.03em;margin-bottom:1.5rem}@media (max-width:767px){html{font-size:16px;line-height:28px}h1{font-size:2.2rem}h1.vc_custom_heading:not([class*="us_custom_"]){font-size:2.2rem!important}h2{font-size:2.0rem}h2.vc_custom_heading:not([class*="us_custom_"]){font-size:2.0rem!important}h3{font-size:1.8rem}h3.vc_custom_heading:not([class*="us_custom_"]){font-size:1.8rem!important}h4,.woocommerce-Reviews-title,.widgettitle{font-size:1.6rem}h4.vc_custom_heading:not([class*="us_custom_"]){font-size:1.6rem!important}h5{font-size:1.4rem}h5.vc_custom_heading:not([class*="us_custom_"]){font-size:1.4rem!important}h6{font-size:1.2rem}h6.vc_custom_heading:not([class*="us_custom_"]){font-size:1.2rem!important}}body{background:var(--color-content-bg-alt)}.l-canvas.type_boxed,.l-canvas.type_boxed .l-subheader,.l-canvas.type_boxed~.l-footer{max-width:1300px}.l-subheader-h,.l-section-h,.l-main .aligncenter,.w-tabs-section-content-h{max-width:1280px}.post-password-form{max-width:calc(1280px + 5rem)}@media screen and (max-width:1360px){.l-main .aligncenter{max-width:calc(100vw - 5rem)}}@media screen and (min-width:1360px){.l-main .alignfull{margin-left:calc( var(--site-content-width) / 2 - 50vw );margin-right:calc( var(--site-content-width) / 2 - 50vw )}}.wpb_text_column:not(:last-child){margin-bottom:1.5rem}@media (min-width:1281px){body.usb_preview .hide_on_default{opacity:0.25!important}body:not(.usb_preview) .hide_on_default{display:none!important}}@media (min-width:1025px) and (max-width:1280px){body.usb_preview .hide_on_laptops{opacity:0.25!important}body:not(.usb_preview) .hide_on_laptops{display:none!important}}@media (min-width:601px) and (max-width:1024px){body.usb_preview .hide_on_tablets{opacity:0.25!important}body:not(.usb_preview) .hide_on_tablets{display:none!important}}@media (max-width:600px){body.usb_preview .hide_on_mobiles{opacity:0.25!important}body:not(.usb_preview) .hide_on_mobiles{display:none!important}}@media (max-width:767px){.l-canvas{overflow:hidden}.g-cols.via_flex.reversed{flex-direction:column-reverse}.g-cols.via_grid.reversed>div:last-of-type{order:-1}.g-cols.via_flex>div:not([class*=" vc_col-"]){width:100%;margin:0 0 1.5rem}.g-cols.via_grid.tablets-cols_inherit.mobiles-cols_1{grid-template-columns:100%}.g-cols.via_flex.type_boxes>div,.g-cols.via_flex.reversed>div:first-child,.g-cols.via_flex:not(.reversed)>div:last-child,.g-cols.via_flex>div.has_bg_color{margin-bottom:0}.g-cols.via_flex.type_default>.wpb_column.stretched{margin-left:-1rem;margin-right:-1rem;width:auto}.g-cols.via_grid>.wpb_column.stretched,.g-cols.via_flex.type_boxes>.wpb_column.stretched{margin-left:-2.5rem;margin-right:-2.5rem;width:auto}.vc_column-inner.type_sticky>.wpb_wrapper,.vc_column_container.type_sticky>.vc_column-inner{top:0!important}}@media (min-width:768px){body:not(.rtl) .l-section.for_sidebar.at_left>div>.l-sidebar,.rtl .l-section.for_sidebar.at_right>div>.l-sidebar{order:-1}.vc_column_container.type_sticky>.vc_column-inner,.vc_column-inner.type_sticky>.wpb_wrapper{position:-webkit-sticky;position:sticky}.l-section.type_sticky{position:-webkit-sticky;position:sticky;top:0;z-index:11;transform:translateZ(0); transition:top 0.3s cubic-bezier(.78,.13,.15,.86) 0.1s}.admin-bar .l-section.type_sticky{top:32px}.l-section.type_sticky>.l-section-h{transition:padding-top 0.3s}.header_hor .l-header.pos_fixed:not(.down)~.l-main .l-section.type_sticky:not(:first-of-type){top:var(--header-sticky-height)}.admin-bar.header_hor .l-header.pos_fixed:not(.down)~.l-main .l-section.type_sticky:not(:first-of-type){top:calc( var(--header-sticky-height) + 32px )}.header_hor .l-header.pos_fixed.sticky:not(.down)~.l-main .l-section.type_sticky:first-of-type>.l-section-h{padding-top:var(--header-sticky-height)}}@media screen and (min-width:1360px){.g-cols.via_flex.type_default>.wpb_column.stretched:first-of-type{margin-left:calc( var(--site-content-width) / 2 + 1.5rem - 50vw)}.g-cols.via_flex.type_default>.wpb_column.stretched:last-of-type{margin-right:calc( var(--site-content-width) / 2 + 1.5rem - 50vw)}.g-cols.via_grid>.wpb_column.stretched:first-of-type,.g-cols.via_flex.type_boxes>.wpb_column.stretched:first-of-type{margin-left:calc( var(--site-content-width) / 2 - 50vw )}.g-cols.via_grid>.wpb_column.stretched:last-of-type,.g-cols.via_flex.type_boxes>.wpb_column.stretched:last-of-type{margin-right:calc( var(--site-content-width) / 2 - 50vw )}}@media (max-width:600px){.w-form-row.for_submit .w-btn{font-size:var(--btn-size-mobiles)!important}}a,button,input[type="submit"],.ui-slider-handle{outline:none!important}.w-header-show{background:rgba(0,0,0,0.3)}.no-touch .w-header-show:hover{background:var(--color-content-primary-grad)}button[type="submit"]:not(.w-btn),input[type="submit"]{font-family:var(--font-body);font-size:16px;line-height:1.2!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;box-shadow:0 0em 0em rgba(0,0,0,0.2);background:var(--color-content-primary);border-color:transparent;color:#ffffff!important}button[type="submit"]:not(.w-btn):before,input[type="submit"]{border-width:0px}.no-touch button[type="submit"]:not(.w-btn):hover,.no-touch input[type="submit"]:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:#8A8A8A;border-color:transparent;color:#ffffff!important}.woocommerce .button.alt,.woocommerce .button.checkout,.woocommerce .button.add_to_cart_button,.us-nav-style_1>*,.navstyle_1>.owl-nav div,.us-btn-style_1{font-family:var(--font-body);font-size:16px;line-height:1.2!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;background:var(--color-content-primary);border-color:transparent;color:#ffffff!important;box-shadow:0 0em 0em rgba(0,0,0,0.2)}.woocommerce .button.alt:before,.woocommerce .button.checkout:before,.woocommerce .button.add_to_cart_button:before,.us-nav-style_1>*:before,.navstyle_1>.owl-nav div:before,.us-btn-style_1:before{border-width:0px}.no-touch .woocommerce .button.alt:hover,.no-touch .woocommerce .button.checkout:hover,.no-touch .woocommerce .button.add_to_cart_button:hover,.us-nav-style_1>span.current,.no-touch .us-nav-style_1>a:hover,.no-touch .navstyle_1>.owl-nav div:hover,.no-touch .us-btn-style_1:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:#8A8A8A;border-color:transparent;color:#ffffff!important}.us-nav-style_1>*{min-width:calc(1.2em + 2 * 0.7em)}.us-nav-style_4>*,.navstyle_4>.owl-nav div,.us-btn-style_4{font-family:var(--font-body);font-size:16px;line-height:1.20!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;background:transparent;border-color:var(--color-content-primary);color:var(--color-content-primary)!important;box-shadow:0 0em 0em rgba(0,0,0,0.2)}.us-nav-style_4>*:before,.navstyle_4>.owl-nav div:before,.us-btn-style_4:before{border-width:3px}.us-nav-style_4>span.current,.no-touch .us-nav-style_4>a:hover,.no-touch .navstyle_4>.owl-nav div:hover,.no-touch .us-btn-style_4:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:var(--color-content-primary);border-color:var(--color-content-primary);color:#ffffff!important}.us-nav-style_4>*{min-width:calc(1.20em + 2 * 0.7em)}.us-nav-style_5>*,.navstyle_5>.owl-nav div,.us-btn-style_5{font-family:var(--font-body);font-size:16px;line-height:1.20!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;background:transparent;border-color:#ffffff;color:#ffffff!important;box-shadow:0 0em 0em rgba(0,0,0,0.2)}.us-nav-style_5>*:before,.navstyle_5>.owl-nav div:before,.us-btn-style_5:before{border-width:3px}.us-nav-style_5>span.current,.no-touch .us-nav-style_5>a:hover,.no-touch .navstyle_5>.owl-nav div:hover,.no-touch .us-btn-style_5:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:var(--color-content-primary);border-color:var(--color-content-primary);color:#ffffff!important}.us-nav-style_5>*{min-width:calc(1.20em + 2 * 0.7em)}.us-nav-style_7>*,.navstyle_7>.owl-nav div,.us-btn-style_7{font-family:var(--font-body);font-size:16px;line-height:1.20!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;background:transparent;border-color:transparent;color:var(--color-content-primary)!important;box-shadow:0 0em 0em rgba(0,0,0,0.2)}.us-nav-style_7>*:before,.navstyle_7>.owl-nav div:before,.us-btn-style_7:before{border-width:3px}.us-nav-style_7>span.current,.no-touch .us-nav-style_7>a:hover,.no-touch .navstyle_7>.owl-nav div:hover,.no-touch .us-btn-style_7:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:var(--color-content-primary);border-color:var(--color-content-primary);color:#ffffff!important}.us-nav-style_7>*{min-width:calc(1.20em + 2 * 0.7em)}.us-nav-style_10>*,.navstyle_10>.owl-nav div,.us-btn-style_10{font-family:var(--font-body);font-size:16px;line-height:1.20!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;background:transparent;border-color:transparent;color:var(--color-content-primary)!important;box-shadow:0 0em 0em rgba(0,0,0,0.2)}.us-nav-style_10>*:before,.navstyle_10>.owl-nav div:before,.us-btn-style_10:before{border-width:3px}.us-nav-style_10>span.current,.no-touch .us-nav-style_10>a:hover,.no-touch .navstyle_10>.owl-nav div:hover,.no-touch .us-btn-style_10:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:transparent;border-color:transparent;color:#cf0017!important}.us-nav-style_10>*{min-width:calc(1.20em + 2 * 0.7em)}.woocommerce .button,.woocommerce .actions .button,.us-nav-style_2>*,.navstyle_2>.owl-nav div,.us-btn-style_2{font-family:var(--font-body);font-size:16px;line-height:1.20!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;background:#8A8A8A;border-color:transparent;color:#ffffff!important;box-shadow:0 0em 0em rgba(0,0,0,0.2)}.woocommerce .button:before,.woocommerce .actions .button:before,.us-nav-style_2>*:before,.navstyle_2>.owl-nav div:before,.us-btn-style_2:before{border-width:0px}.no-touch .woocommerce .button:hover,.no-touch .woocommerce .actions .button:hover,.us-nav-style_2>span.current,.no-touch .us-nav-style_2>a:hover,.no-touch .navstyle_2>.owl-nav div:hover,.no-touch .us-btn-style_2:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:var(--color-content-primary);border-color:transparent;color:#ffffff!important}.us-nav-style_2>*{min-width:calc(1.20em + 2 * 0.7em)}.us-nav-style_3>*,.navstyle_3>.owl-nav div,.us-btn-style_3{font-family:var(--font-body);font-size:16px;line-height:1.20!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;background:transparent;border-color:#8A8A8A;color:#8A8A8A!important;box-shadow:0 0em 0em rgba(0,0,0,0.2)}.us-nav-style_3>*:before,.navstyle_3>.owl-nav div:before,.us-btn-style_3:before{border-width:3px}.us-nav-style_3>span.current,.no-touch .us-nav-style_3>a:hover,.no-touch .navstyle_3>.owl-nav div:hover,.no-touch .us-btn-style_3:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:#8A8A8A;border-color:transparent;color:#ffffff!important}.us-nav-style_3>*{min-width:calc(1.20em + 2 * 0.7em)}.us-nav-style_9>*,.navstyle_9>.owl-nav div,.us-btn-style_9{font-family:var(--font-body);font-size:10px;line-height:1.20!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;background:transparent;border-color:#8A8A8A;color:#8A8A8A!important;box-shadow:0 0em 0em rgba(0,0,0,0.2)}.us-nav-style_9>*:before,.navstyle_9>.owl-nav div:before,.us-btn-style_9:before{border-width:3px}.us-nav-style_9>span.current,.no-touch .us-nav-style_9>a:hover,.no-touch .navstyle_9>.owl-nav div:hover,.no-touch .us-btn-style_9:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:#8A8A8A;border-color:transparent;color:#ffffff!important}.us-nav-style_9>*{min-width:calc(1.20em + 2 * 0.7em)}.us-nav-style_6>*,.navstyle_6>.owl-nav div,.us-btn-style_6{font-family:var(--font-body);font-size:16px;line-height:1.20!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;background:transparent;border-color:#ffffff;color:#ffffff!important;box-shadow:0 0em 0em rgba(0,0,0,0.2)}.us-nav-style_6>*:before,.navstyle_6>.owl-nav div:before,.us-btn-style_6:before{border-width:3px}.us-nav-style_6>span.current,.no-touch .us-nav-style_6>a:hover,.no-touch .navstyle_6>.owl-nav div:hover,.no-touch .us-btn-style_6:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:#8A8A8A;border-color:transparent;color:#ffffff!important}.us-nav-style_6>*{min-width:calc(1.20em + 2 * 0.7em)}.us-nav-style_8>*,.navstyle_8>.owl-nav div,.us-btn-style_8{font-family:var(--font-body);font-size:16px;line-height:1.20!important;font-weight:700;font-style:normal;text-transform:uppercase;letter-spacing:0em;border-radius:4em;padding:0.7em 2em;background:transparent;border-color:#ffffff;color:#ffffff!important;box-shadow:0 0em 0em rgba(0,0,0,0.2)}.us-nav-style_8>*:before,.navstyle_8>.owl-nav div:before,.us-btn-style_8:before{border-width:3px}.us-nav-style_8>span.current,.no-touch .us-nav-style_8>a:hover,.no-touch .navstyle_8>.owl-nav div:hover,.no-touch .us-btn-style_8:hover{box-shadow:0 0em 0em rgba(0,0,0,0.2);background:#ffffff;border-color:transparent;color:#000000!important}.us-nav-style_8>*{min-width:calc(1.20em + 2 * 0.7em)}.w-filter.state_desktop.style_drop_default .w-filter-item-title,.select2-selection,select,textarea,input:not([type="submit"]),.w-form-checkbox,.w-form-radio{font-size:1rem;font-weight:400;letter-spacing:0em;border-width:0px;border-radius:0rem;background:var(--color-content-bg-alt);border-color:var(--color-content-border);color:var(--color-content-text);box-shadow:0px 1px 0px 0px rgba(0,0,0,0.08) inset}body .select2-dropdown{background:var(--color-content-bg-alt);color:var(--color-content-text)}.w-filter.state_desktop.style_drop_default .w-filter-item-title,.select2-selection,select,input:not([type="submit"]){min-height:2.8rem;line-height:2.8rem;padding:0 0.8rem}select{height:2.8rem}textarea{padding:calc(2.8rem/2 + 0px - 0.7em) 0.8rem}.w-filter.state_desktop.style_drop_default .w-filter-item-title:focus,.select2-container--open .select2-selection,select:focus,textarea:focus,input:not([type="submit"]):focus,input:focus + .w-form-checkbox,input:focus + .w-form-radio{box-shadow:0px 0px 0px 2px var(--color-content-primary)}.woocommerce-ordering:after,.woocommerce-select:after,.widget_product_search form:after,.w-filter-item[data-ui_type="dropdown"] .w-filter-item-values:after,.w-filter.state_desktop.style_drop_default .w-filter-item-title:after,.w-order-select:after,.select2-selection__arrow:after,.w-search-form-btn,.widget_search form:after,.w-form-row-field:after{font-size:1rem;margin:0 0.8rem;color:var(--color-content-text)}.w-form-row-field>i{font-size:1rem;top:calc(2.8rem/2);margin:0px;padding:0 0.8rem;color:var(--color-content-text)}.w-form-row.with_icon input,.w-form-row.with_icon textarea,.w-form-row.with_icon select{padding-left:calc(1.8em + 0.8rem)}.w-form-row.move_label .w-form-row-label{font-size:1rem;top:calc(2.8rem/2 + 0px - 0.7em);margin:0 0.8rem;background-color:var(--color-content-bg-alt);color:var(--color-content-text)}.w-form-row.with_icon.move_label .w-form-row-label{margin-left:calc(1.6em + 0.8rem)}.color_alternate input:not([type="submit"]),.color_alternate textarea,.color_alternate select,.color_alternate .w-form-checkbox,.color_alternate .w-form-radio,.color_alternate .move_label .w-form-row-label{background:var(--color-alt-content-bg-alt-grad)}.color_footer-top input:not([type="submit"]),.color_footer-top textarea,.color_footer-top select,.color_footer-top .w-form-checkbox,.color_footer-top .w-form-radio,.color_footer-top .w-form-row.move_label .w-form-row-label{background:var(--color-subfooter-bg-alt-grad)}.color_footer-bottom input:not([type="submit"]),.color_footer-bottom textarea,.color_footer-bottom select,.color_footer-bottom .w-form-checkbox,.color_footer-bottom .w-form-radio,.color_footer-bottom .w-form-row.move_label .w-form-row-label{background:var(--color-footer-bg-alt-grad)}.color_alternate input:not([type="submit"]),.color_alternate textarea,.color_alternate select,.color_alternate .w-form-checkbox,.color_alternate .w-form-radio{border-color:var(--color-alt-content-border)}.color_footer-top input:not([type="submit"]),.color_footer-top textarea,.color_footer-top select,.color_footer-top .w-form-checkbox,.color_footer-top .w-form-radio{border-color:var(--color-subfooter-border)}.color_footer-bottom input:not([type="submit"]),.color_footer-bottom textarea,.color_footer-bottom select,.color_footer-bottom .w-form-checkbox,.color_footer-bottom .w-form-radio{border-color:var(--color-footer-border)}.color_alternate input:not([type="submit"]),.color_alternate textarea,.color_alternate select,.color_alternate .w-form-checkbox,.color_alternate .w-form-radio,.color_alternate .w-form-row-field>i,.color_alternate .w-form-row-field:after,.color_alternate .widget_search form:after,.color_footer-top input:not([type="submit"]),.color_footer-top textarea,.color_footer-top select,.color_footer-top .w-form-checkbox,.color_footer-top .w-form-radio,.color_footer-top .w-form-row-field>i,.color_footer-top .w-form-row-field:after,.color_footer-top .widget_search form:after,.color_footer-bottom input:not([type="submit"]),.color_footer-bottom textarea,.color_footer-bottom select,.color_footer-bottom .w-form-checkbox,.color_footer-bottom .w-form-radio,.color_footer-bottom .w-form-row-field>i,.color_footer-bottom .w-form-row-field:after,.color_footer-bottom .widget_search form:after{color:inherit}.style_phone6-1>*{background-image:url(https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/img/phone-6-black-real.png)}.style_phone6-2>*{background-image:url(https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/img/phone-6-white-real.png)}.style_phone6-3>*{background-image:url(https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/img/phone-6-black-flat.png)}.style_phone6-4>*{background-image:url(https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/img/phone-6-white-flat.png)}.leaflet-default-icon-path{background-image:url(https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/common/css/vendor/images/marker-icon.png)}.woocommerce-product-gallery--columns-4 li{width:25.000%}.woocommerce-product-gallery ol{margin:2px -2px 0}.woocommerce-product-gallery ol>li{padding:2px}</style>
+<style id="us-header-css"> .l-subheader.at_middle,.l-subheader.at_middle .w-dropdown-list,.l-subheader.at_middle .type_mobile .w-nav-list.level_1{background:var(--color-header-middle-bg);color:var(--color-header-middle-text)}.no-touch .l-subheader.at_middle a:hover,.no-touch .l-header.bg_transparent .l-subheader.at_middle .w-dropdown.opened a:hover{color:var(--color-header-middle-text-hover)}.l-header.bg_transparent:not(.sticky) .l-subheader.at_middle{background:var(--color-header-transparent-bg);color:var(--color-header-transparent-text)}.no-touch .l-header.bg_transparent:not(.sticky) .at_middle .w-cart-link:hover,.no-touch .l-header.bg_transparent:not(.sticky) .at_middle .w-text a:hover,.no-touch .l-header.bg_transparent:not(.sticky) .at_middle .w-html a:hover,.no-touch .l-header.bg_transparent:not(.sticky) .at_middle .w-nav>a:hover,.no-touch .l-header.bg_transparent:not(.sticky) .at_middle .w-menu a:hover,.no-touch .l-header.bg_transparent:not(.sticky) .at_middle .w-search>a:hover,.no-touch .l-header.bg_transparent:not(.sticky) .at_middle .w-dropdown a:hover,.no-touch .l-header.bg_transparent:not(.sticky) .at_middle .type_desktop .menu-item.level_1:hover>a{color:var(--color-header-transparent-text-hover)}.header_ver .l-header{background:var(--color-header-middle-bg);color:var(--color-header-middle-text)}@media (min-width:901px){.hidden_for_default{display:none!important}.l-subheader.at_top{display:none}.l-subheader.at_bottom{display:none}.l-header{position:relative;z-index:111;width:100%}.l-subheader{margin:0 auto}.l-subheader.width_full{padding-left:1.5rem;padding-right:1.5rem}.l-subheader-h{display:flex;align-items:center;position:relative;margin:0 auto;height:inherit}.w-header-show{display:none}.l-header.pos_fixed{position:fixed;left:0}.l-header.pos_fixed:not(.notransition) .l-subheader{transition-property:transform,background,box-shadow,line-height,height;transition-duration:0.3s;transition-timing-function:cubic-bezier(.78,.13,.15,.86)}.header_hor .l-header.sticky_auto_hide{transition:transform 0.3s cubic-bezier(.78,.13,.15,.86) 0.1s}.header_hor .l-header.sticky_auto_hide.down{transform:translateY(-110%)}.l-header.bg_transparent:not(.sticky) .l-subheader{box-shadow:none!important;background:none}.l-header.bg_transparent~.l-main .l-section.width_full.height_auto:first-of-type>.l-section-h{padding-top:0!important;padding-bottom:0!important}.l-header.pos_static.bg_transparent{position:absolute;left:0}.l-subheader.width_full .l-subheader-h{max-width:none!important}.l-header.shadow_thin .l-subheader.at_middle,.l-header.shadow_thin .l-subheader.at_bottom{box-shadow:0 1px 0 rgba(0,0,0,0.08)}.l-header.shadow_wide .l-subheader.at_middle,.l-header.shadow_wide .l-subheader.at_bottom{box-shadow:0 3px 5px -1px rgba(0,0,0,0.1),0 2px 1px -1px rgba(0,0,0,0.05)}.header_hor .l-subheader-cell>.w-cart{margin-left:0;margin-right:0}:root{--header-height:70px;--header-sticky-height:60px}.l-header:before{content:'70'}.l-header.sticky:before{content:'60'}.l-subheader.at_top{line-height:40px;height:40px}.l-header.sticky .l-subheader.at_top{line-height:40px;height:40px}.l-subheader.at_middle{line-height:70px;height:70px}.l-header.sticky .l-subheader.at_middle{line-height:60px;height:60px}.l-subheader.at_bottom{line-height:50px;height:50px}.l-header.sticky .l-subheader.at_bottom{line-height:50px;height:50px}.headerinpos_above .l-header.pos_fixed{overflow:hidden;transition:transform 0.3s;transform:translate3d(0,-100%,0)}.headerinpos_above .l-header.pos_fixed.sticky{overflow:visible;transform:none}.headerinpos_above .l-header.pos_fixed~.l-section>.l-section-h,.headerinpos_above .l-header.pos_fixed~.l-main .l-section:first-of-type>.l-section-h{padding-top:0!important}.headerinpos_below .l-header.pos_fixed:not(.sticky){position:absolute;top:100%}.headerinpos_below .l-header.pos_fixed~.l-main>.l-section:first-of-type>.l-section-h{padding-top:0!important}.headerinpos_below .l-header.pos_fixed~.l-main .l-section.full_height:nth-of-type(2){min-height:100vh}.headerinpos_below .l-header.pos_fixed~.l-main>.l-section:nth-of-type(2)>.l-section-h{padding-top:var(--header-height)}.headerinpos_bottom .l-header.pos_fixed:not(.sticky){position:absolute;top:100vh}.headerinpos_bottom .l-header.pos_fixed~.l-main>.l-section:first-of-type>.l-section-h{padding-top:0!important}.headerinpos_bottom .l-header.pos_fixed~.l-main>.l-section:first-of-type>.l-section-h{padding-bottom:var(--header-height)}.headerinpos_bottom .l-header.pos_fixed.bg_transparent~.l-main .l-section.valign_center:not(.height_auto):first-of-type>.l-section-h{top:calc( var(--header-height) / 2 )}.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-cart-dropdown,.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_desktop .w-nav-list.level_2{bottom:100%;transform-origin:0 100%}.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_mobile.m_layout_dropdown .w-nav-list.level_1{top:auto;bottom:100%;box-shadow:var(--box-shadow-up)}.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_desktop .w-nav-list.level_3,.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_desktop .w-nav-list.level_4{top:auto;bottom:0;transform-origin:0 100%}.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-dropdown-list{top:auto;bottom:-0.4em;padding-top:0.4em;padding-bottom:2.4em}.admin-bar .l-header.pos_static.bg_solid~.l-main .l-section.full_height:first-of-type{min-height:calc( 100vh - var(--header-height) - 32px )}.admin-bar .l-header.pos_fixed:not(.sticky_auto_hide)~.l-main .l-section.full_height:not(:first-of-type){min-height:calc( 100vh - var(--header-sticky-height) - 32px )}.admin-bar.headerinpos_below .l-header.pos_fixed~.l-main .l-section.full_height:nth-of-type(2){min-height:calc(100vh - 32px)}}@media (min-width:901px) and (max-width:900px){.hidden_for_default{display:none!important}.l-subheader.at_top{display:none}.l-subheader.at_bottom{display:none}.l-header{position:relative;z-index:111;width:100%}.l-subheader{margin:0 auto}.l-subheader.width_full{padding-left:1.5rem;padding-right:1.5rem}.l-subheader-h{display:flex;align-items:center;position:relative;margin:0 auto;height:inherit}.w-header-show{display:none}.l-header.pos_fixed{position:fixed;left:0}.l-header.pos_fixed:not(.notransition) .l-subheader{transition-property:transform,background,box-shadow,line-height,height;transition-duration:0.3s;transition-timing-function:cubic-bezier(.78,.13,.15,.86)}.header_hor .l-header.sticky_auto_hide{transition:transform 0.3s cubic-bezier(.78,.13,.15,.86) 0.1s}.header_hor .l-header.sticky_auto_hide.down{transform:translateY(-110%)}.l-header.bg_transparent:not(.sticky) .l-subheader{box-shadow:none!important;background:none}.l-header.bg_transparent~.l-main .l-section.width_full.height_auto:first-of-type>.l-section-h{padding-top:0!important;padding-bottom:0!important}.l-header.pos_static.bg_transparent{position:absolute;left:0}.l-subheader.width_full .l-subheader-h{max-width:none!important}.l-header.shadow_thin .l-subheader.at_middle,.l-header.shadow_thin .l-subheader.at_bottom{box-shadow:0 1px 0 rgba(0,0,0,0.08)}.l-header.shadow_wide .l-subheader.at_middle,.l-header.shadow_wide .l-subheader.at_bottom{box-shadow:0 3px 5px -1px rgba(0,0,0,0.1),0 2px 1px -1px rgba(0,0,0,0.05)}.header_hor .l-subheader-cell>.w-cart{margin-left:0;margin-right:0}:root{--header-height:70px;--header-sticky-height:60px}.l-header:before{content:'70'}.l-header.sticky:before{content:'60'}.l-subheader.at_top{line-height:40px;height:40px}.l-header.sticky .l-subheader.at_top{line-height:40px;height:40px}.l-subheader.at_middle{line-height:70px;height:70px}.l-header.sticky .l-subheader.at_middle{line-height:60px;height:60px}.l-subheader.at_bottom{line-height:50px;height:50px}.l-header.sticky .l-subheader.at_bottom{line-height:50px;height:50px}.headerinpos_above .l-header.pos_fixed{overflow:hidden;transition:transform 0.3s;transform:translate3d(0,-100%,0)}.headerinpos_above .l-header.pos_fixed.sticky{overflow:visible;transform:none}.headerinpos_above .l-header.pos_fixed~.l-section>.l-section-h,.headerinpos_above .l-header.pos_fixed~.l-main .l-section:first-of-type>.l-section-h{padding-top:0!important}.headerinpos_below .l-header.pos_fixed:not(.sticky){position:absolute;top:100%}.headerinpos_below .l-header.pos_fixed~.l-main>.l-section:first-of-type>.l-section-h{padding-top:0!important}.headerinpos_below .l-header.pos_fixed~.l-main .l-section.full_height:nth-of-type(2){min-height:100vh}.headerinpos_below .l-header.pos_fixed~.l-main>.l-section:nth-of-type(2)>.l-section-h{padding-top:var(--header-height)}.headerinpos_bottom .l-header.pos_fixed:not(.sticky){position:absolute;top:100vh}.headerinpos_bottom .l-header.pos_fixed~.l-main>.l-section:first-of-type>.l-section-h{padding-top:0!important}.headerinpos_bottom .l-header.pos_fixed~.l-main>.l-section:first-of-type>.l-section-h{padding-bottom:var(--header-height)}.headerinpos_bottom .l-header.pos_fixed.bg_transparent~.l-main .l-section.valign_center:not(.height_auto):first-of-type>.l-section-h{top:calc( var(--header-height) / 2 )}.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-cart-dropdown,.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_desktop .w-nav-list.level_2{bottom:100%;transform-origin:0 100%}.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_mobile.m_layout_dropdown .w-nav-list.level_1{top:auto;bottom:100%;box-shadow:var(--box-shadow-up)}.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_desktop .w-nav-list.level_3,.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-nav.type_desktop .w-nav-list.level_4{top:auto;bottom:0;transform-origin:0 100%}.headerinpos_bottom .l-header.pos_fixed:not(.sticky) .w-dropdown-list{top:auto;bottom:-0.4em;padding-top:0.4em;padding-bottom:2.4em}.admin-bar .l-header.pos_static.bg_solid~.l-main .l-section.full_height:first-of-type{min-height:calc( 100vh - var(--header-height) - 32px )}.admin-bar .l-header.pos_fixed:not(.sticky_auto_hide)~.l-main .l-section.full_height:not(:first-of-type){min-height:calc( 100vh - var(--header-sticky-height) - 32px )}.admin-bar.headerinpos_below .l-header.pos_fixed~.l-main .l-section.full_height:nth-of-type(2){min-height:calc(100vh - 32px)}}@media (min-width:601px) and (max-width:900px){.hidden_for_default{display:none!important}.l-subheader.at_top{display:none}.l-subheader.at_bottom{display:none}.l-header{position:relative;z-index:111;width:100%}.l-subheader{margin:0 auto}.l-subheader.width_full{padding-left:1.5rem;padding-right:1.5rem}.l-subheader-h{display:flex;align-items:center;position:relative;margin:0 auto;height:inherit}.w-header-show{display:none}.l-header.pos_fixed{position:fixed;left:0}.l-header.pos_fixed:not(.notransition) .l-subheader{transition-property:transform,background,box-shadow,line-height,height;transition-duration:0.3s;transition-timing-function:cubic-bezier(.78,.13,.15,.86)}.header_hor .l-header.sticky_auto_hide{transition:transform 0.3s cubic-bezier(.78,.13,.15,.86) 0.1s}.header_hor .l-header.sticky_auto_hide.down{transform:translateY(-110%)}.l-header.bg_transparent:not(.sticky) .l-subheader{box-shadow:none!important;background:none}.l-header.bg_transparent~.l-main .l-section.width_full.height_auto:first-of-type>.l-section-h{padding-top:0!important;padding-bottom:0!important}.l-header.pos_static.bg_transparent{position:absolute;left:0}.l-subheader.width_full .l-subheader-h{max-width:none!important}.l-header.shadow_thin .l-subheader.at_middle,.l-header.shadow_thin .l-subheader.at_bottom{box-shadow:0 1px 0 rgba(0,0,0,0.08)}.l-header.shadow_wide .l-subheader.at_middle,.l-header.shadow_wide .l-subheader.at_bottom{box-shadow:0 3px 5px -1px rgba(0,0,0,0.1),0 2px 1px -1px rgba(0,0,0,0.05)}.header_hor .l-subheader-cell>.w-cart{margin-left:0;margin-right:0}:root{--header-height:80px;--header-sticky-height:60px}.l-header:before{content:'80'}.l-header.sticky:before{content:'60'}.l-subheader.at_top{line-height:40px;height:40px}.l-header.sticky .l-subheader.at_top{line-height:40px;height:40px}.l-subheader.at_middle{line-height:80px;height:80px}.l-header.sticky .l-subheader.at_middle{line-height:60px;height:60px}.l-subheader.at_bottom{line-height:50px;height:50px}.l-header.sticky .l-subheader.at_bottom{line-height:50px;height:50px}}@media (max-width:600px){.hidden_for_default{display:none!important}.l-subheader.at_top{display:none}.l-subheader.at_bottom{display:none}.l-header{position:relative;z-index:111;width:100%}.l-subheader{margin:0 auto}.l-subheader.width_full{padding-left:1.5rem;padding-right:1.5rem}.l-subheader-h{display:flex;align-items:center;position:relative;margin:0 auto;height:inherit}.w-header-show{display:none}.l-header.pos_fixed{position:fixed;left:0}.l-header.pos_fixed:not(.notransition) .l-subheader{transition-property:transform,background,box-shadow,line-height,height;transition-duration:0.3s;transition-timing-function:cubic-bezier(.78,.13,.15,.86)}.header_hor .l-header.sticky_auto_hide{transition:transform 0.3s cubic-bezier(.78,.13,.15,.86) 0.1s}.header_hor .l-header.sticky_auto_hide.down{transform:translateY(-110%)}.l-header.bg_transparent:not(.sticky) .l-subheader{box-shadow:none!important;background:none}.l-header.bg_transparent~.l-main .l-section.width_full.height_auto:first-of-type>.l-section-h{padding-top:0!important;padding-bottom:0!important}.l-header.pos_static.bg_transparent{position:absolute;left:0}.l-subheader.width_full .l-subheader-h{max-width:none!important}.l-header.shadow_thin .l-subheader.at_middle,.l-header.shadow_thin .l-subheader.at_bottom{box-shadow:0 1px 0 rgba(0,0,0,0.08)}.l-header.shadow_wide .l-subheader.at_middle,.l-header.shadow_wide .l-subheader.at_bottom{box-shadow:0 3px 5px -1px rgba(0,0,0,0.1),0 2px 1px -1px rgba(0,0,0,0.05)}.header_hor .l-subheader-cell>.w-cart{margin-left:0;margin-right:0}:root{--header-height:50px;--header-sticky-height:60px}.l-header:before{content:'50'}.l-header.sticky:before{content:'60'}.l-subheader.at_top{line-height:40px;height:40px}.l-header.sticky .l-subheader.at_top{line-height:40px;height:40px}.l-subheader.at_middle{line-height:50px;height:50px}.l-header.sticky .l-subheader.at_middle{line-height:60px;height:60px}.l-subheader.at_bottom{line-height:50px;height:50px}.l-header.sticky .l-subheader.at_bottom{line-height:50px;height:50px}}@media (min-width:901px){.ush_image_1{height:35px!important}.l-header.sticky .ush_image_1{height:35px!important}}@media (min-width:901px) and (max-width:900px){.ush_image_1{height:30px!important}.l-header.sticky .ush_image_1{height:30px!important}}@media (min-width:601px) and (max-width:900px){.ush_image_1{height:40px!important}.l-header.sticky .ush_image_1{height:40px!important}}@media (max-width:600px){.ush_image_1{height:30px!important}.l-header.sticky .ush_image_1{height:30px!important}}.header_hor .ush_menu_1.type_desktop .menu-item.level_1>a:not(.w-btn){padding-left:20px;padding-right:20px}.header_hor .ush_menu_1.type_desktop .menu-item.level_1>a.w-btn{margin-left:20px;margin-right:20px}.header_ver .ush_menu_1.type_desktop .menu-item.level_1>a:not(.w-btn){padding-top:20px;padding-bottom:20px}.header_ver .ush_menu_1.type_desktop .menu-item.level_1>a.w-btn{margin-top:20px;margin-bottom:20px}.ush_menu_1.type_desktop .menu-item:not(.level_1){font-size:13px}.ush_menu_1.type_mobile .w-nav-anchor.level_1,.ush_menu_1.type_mobile .w-nav-anchor.level_1 + .w-nav-arrow{font-size:1.1rem}.ush_menu_1.type_mobile .w-nav-anchor:not(.level_1),.ush_menu_1.type_mobile .w-nav-anchor:not(.level_1) + .w-nav-arrow{font-size:1.1rem}@media (min-width:901px){.ush_menu_1 .w-nav-icon{font-size:20px}}@media (min-width:901px) and (max-width:900px){.ush_menu_1 .w-nav-icon{font-size:32px}}@media (min-width:601px) and (max-width:900px){.ush_menu_1 .w-nav-icon{font-size:20px}}@media (max-width:600px){.ush_menu_1 .w-nav-icon{font-size:20px}}.ush_menu_1 .w-nav-icon>div{border-width:3px}@media screen and (max-width:1022px){.w-nav.ush_menu_1>.w-nav-list.level_1{display:none}.ush_menu_1 .w-nav-control{display:block}}.ush_menu_1 .menu-item.level_1>a:not(.w-btn):focus,.no-touch .ush_menu_1 .menu-item.level_1.opened>a:not(.w-btn),.no-touch .ush_menu_1 .menu-item.level_1:hover>a:not(.w-btn){background:transparent;color:#77000D}.ush_menu_1 .menu-item.level_1.current-menu-item>a:not(.w-btn),.ush_menu_1 .menu-item.level_1.current-menu-ancestor>a:not(.w-btn),.ush_menu_1 .menu-item.level_1.current-page-ancestor>a:not(.w-btn){background:transparent;color:#77000D}.l-header.bg_transparent:not(.sticky) .ush_menu_1.type_desktop .menu-item.level_1.current-menu-item>a:not(.w-btn),.l-header.bg_transparent:not(.sticky) .ush_menu_1.type_desktop .menu-item.level_1.current-menu-ancestor>a:not(.w-btn),.l-header.bg_transparent:not(.sticky) .ush_menu_1.type_desktop .menu-item.level_1.current-page-ancestor>a:not(.w-btn){background:transparent;color:var(--color-header-transparent-text-hover)}.ush_menu_1 .w-nav-list:not(.level_1){background:var(--color-header-middle-bg);color:var(--color-header-middle-text)}.no-touch .ush_menu_1 .menu-item:not(.level_1)>a:focus,.no-touch .ush_menu_1 .menu-item:not(.level_1):hover>a{background:transparent;color:#77000D}.ush_menu_1 .menu-item:not(.level_1).current-menu-item>a,.ush_menu_1 .menu-item:not(.level_1).current-menu-ancestor>a,.ush_menu_1 .menu-item:not(.level_1).current-page-ancestor>a{background:transparent;color:#77000D}.ush_search_1 .w-search-form{background:var(--color-content-bg);color:var(--color-content-text)}@media (min-width:901px){.ush_search_1.layout_simple{max-width:300px}.ush_search_1.layout_modern.active{width:300px}.ush_search_1{font-size:18px}}@media (min-width:901px) and (max-width:900px){.ush_search_1.layout_simple{max-width:250px}.ush_search_1.layout_modern.active{width:250px}.ush_search_1{font-size:24px}}@media (min-width:601px) and (max-width:900px){.ush_search_1.layout_simple{max-width:250px}.ush_search_1.layout_modern.active{width:250px}.ush_search_1{font-size:18px}}@media (max-width:600px){.ush_search_1{font-size:18px}}.ush_menu_1{font-weight:700!important;text-transform:uppercase!important;font-size:14px!important}</style>
+<style id="us-custom-css">@media only screen and (max-width:1024px){.g-cols.type_default>div[class*="vc_col-xs-"]{padding:0px;margin:0!important}.g-cols.type_default{margin:0}}</style>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PX54MGL');</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66331705-12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66331705-12');
+</script>
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '285439949619375');
+fbq('track', 'PageView');
+</script>
+<noscript> <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=285439949619375&ev=PageView&noscript=1" alt="" />
+</noscript>
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-647208864"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-647208864');
+</script>
+
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-647208864/3tLLCJbbkvICEKC_zrQC'});
+</script>
+<style id="us-design-options-css">.us_custom_9de87d4e{font-weight:700!important}.us_custom_064d3121{font-weight:600!important}.us_custom_f4397b66{font-size:12px!important}.us_custom_2f58e7cb{color:#f5f5f5!important}.us_custom_eb849559{text-align:center!important}</style></head>
+<body class="post-template-default single single-post postid-14243 single-format-standard wp-embed-responsive l-body Impreza_8.2.1 us-core_8.2.1 header_hor headerinpos_top state_default theme-Impreza woocommerce-no-js us-woo-cart_compact wpb-js-composer js-comp-ver-6.7.0 vc_responsive" itemscope itemtype="https://schema.org/WebPage">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<defs>
+<filter id="wp-duotone-dark-grayscale">
+<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values="
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+					" />
+<feComponentTransfer color-interpolation-filters="sRGB">
+<feFuncR type="table" tableValues="0 0.49803921568627" />
+<feFuncG type="table" tableValues="0 0.49803921568627" />
+<feFuncB type="table" tableValues="0 0.49803921568627" />
+<feFuncA type="table" tableValues="1 1" />
+</feComponentTransfer>
+<feComposite in2="SourceGraphic" operator="in" />
+</filter>
+</defs>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<defs>
+<filter id="wp-duotone-grayscale">
+<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values="
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+					" />
+<feComponentTransfer color-interpolation-filters="sRGB">
+<feFuncR type="table" tableValues="0 1" />
+<feFuncG type="table" tableValues="0 1" />
+<feFuncB type="table" tableValues="0 1" />
+<feFuncA type="table" tableValues="1 1" />
+</feComponentTransfer>
+<feComposite in2="SourceGraphic" operator="in" />
+</filter>
+</defs>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<defs>
+<filter id="wp-duotone-purple-yellow">
+<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values="
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+					" />
+<feComponentTransfer color-interpolation-filters="sRGB">
+<feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+<feFuncG type="table" tableValues="0 1" />
+<feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+<feFuncA type="table" tableValues="1 1" />
+</feComponentTransfer>
+<feComposite in2="SourceGraphic" operator="in" />
+</filter>
+</defs>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<defs>
+<filter id="wp-duotone-blue-red">
+<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values="
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+					" />
+<feComponentTransfer color-interpolation-filters="sRGB">
+<feFuncR type="table" tableValues="0 1" />
+<feFuncG type="table" tableValues="0 0.27843137254902" />
+<feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+<feFuncA type="table" tableValues="1 1" />
+</feComponentTransfer>
+<feComposite in2="SourceGraphic" operator="in" />
+</filter>
+</defs>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<defs>
+<filter id="wp-duotone-midnight">
+<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values="
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+					" />
+<feComponentTransfer color-interpolation-filters="sRGB">
+<feFuncR type="table" tableValues="0 0" />
+<feFuncG type="table" tableValues="0 0.64705882352941" />
+<feFuncB type="table" tableValues="0 1" />
+<feFuncA type="table" tableValues="1 1" />
+</feComponentTransfer>
+<feComposite in2="SourceGraphic" operator="in" />
+</filter>
+</defs>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<defs>
+<filter id="wp-duotone-magenta-yellow">
+<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values="
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+					" />
+<feComponentTransfer color-interpolation-filters="sRGB">
+<feFuncR type="table" tableValues="0.78039215686275 1" />
+<feFuncG type="table" tableValues="0 0.94901960784314" />
+<feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+<feFuncA type="table" tableValues="1 1" />
+</feComponentTransfer>
+<feComposite in2="SourceGraphic" operator="in" />
+</filter>
+</defs>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<defs>
+<filter id="wp-duotone-purple-green">
+<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values="
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+					" />
+<feComponentTransfer color-interpolation-filters="sRGB">
+<feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+<feFuncG type="table" tableValues="0 1" />
+<feFuncB type="table" tableValues="0.44705882352941 0.4" />
+<feFuncA type="table" tableValues="1 1" />
+</feComponentTransfer>
+<feComposite in2="SourceGraphic" operator="in" />
+</filter>
+</defs>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<defs>
+<filter id="wp-duotone-blue-orange">
+<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values="
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+						.299 .587 .114 0 0
+					" />
+<feComponentTransfer color-interpolation-filters="sRGB">
+<feFuncR type="table" tableValues="0.098039215686275 1" />
+<feFuncG type="table" tableValues="0 0.66274509803922" />
+<feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+<feFuncA type="table" tableValues="1 1" />
+</feComponentTransfer>
+<feComposite in2="SourceGraphic" operator="in" />
+</filter>
+</defs>
+</svg>
+<div class="l-canvas type_wide">
+<header id="page-header" class="l-header pos_fixed shadow_wide bg_solid id_20991" itemscope itemtype="https://schema.org/WPHeader"><div class="l-subheader at_middle width_full"><div class="l-subheader-h"><div class="l-subheader-cell at_left"><div class="w-image ush_image_1 with_transparent"><a href="/" aria-label="Link" class="w-image-h"><img width="1024" height="167" src="https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/Proxsis-EAST-Surabaya-1024x167.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/Proxsis-EAST-Surabaya-1024x167.png 1024w, https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/Proxsis-EAST-Surabaya-300x49.png 300w, https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/Proxsis-EAST-Surabaya-600x98.png 600w, https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/Proxsis-EAST-Surabaya-500x82.png 500w, https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/Proxsis-EAST-Surabaya-800x131.png 800w, https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/Proxsis-EAST-Surabaya-e1608681740698.png 550w" sizes="(max-width: 1024px) 100vw, 1024px" /><img width="550" height="84" src="https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/PGC-SBY-Logo-white.png" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/PGC-SBY-Logo-white.png 550w, https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/PGC-SBY-Logo-white-300x46.png 300w, https://surabaya.proxsisgroup.com/wp-content/uploads/2020/12/PGC-SBY-Logo-white-500x76.png 500w" sizes="(max-width: 550px) 100vw, 550px" /></a></div></div><div class="l-subheader-cell at_center"></div><div class="l-subheader-cell at_right"><nav class="w-nav type_desktop ush_menu_1 height_full dropdown_height m_align_center m_layout_fullscreen m_effect_aft" itemscope itemtype="https://schema.org/SiteNavigationElement"><a class="w-nav-control" aria-label="Menu" href="javascript:void(0);"><div class="w-nav-icon"><div></div></div></a><ul class="w-nav-list level_1 hide_for_mobiles hover_simple"><li id="menu-item-2736" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-2736"><a class="w-nav-anchor level_1" href="https://surabaya.proxsisgroup.com/our-company/"><span class="w-nav-title">About Us</span><span class="w-nav-arrow"></span></a></li><li id="menu-item-2730" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-2730"><a class="w-nav-anchor level_1" href="https://surabaya.proxsisgroup.com/consultation/"><span class="w-nav-title">Consultation</span><span class="w-nav-arrow"></span></a></li><li id="menu-item-2859" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-2859"><a class="w-nav-anchor level_1" href="https://surabaya.proxsisgroup.com/training/"><span class="w-nav-title">Proxsis Academy</span><span class="w-nav-arrow"></span></a></li><li id="menu-item-2726" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-2726"><a class="w-nav-anchor level_1" href="https://surabaya.proxsisgroup.com/assessment/"><span class="w-nav-title">Assessment</span><span class="w-nav-arrow"></span></a></li><li id="menu-item-2906" class="menu-item menu-item-type-custom menu-item-object-custom w-nav-item level_1 menu-item-2906"><a class="w-nav-anchor level_1" href="http://proxsisgroup.com"><span class="w-nav-title">Proxsis Consulting Group</span><span class="w-nav-arrow"></span></a></li><li id="menu-item-20985" class="menu-item menu-item-type-custom menu-item-object-custom w-nav-item level_1 menu-item-20985"><a class="w-nav-anchor level_1" href="/#contact"><span class="w-nav-title">Contact Us</span><span class="w-nav-arrow"></span></a></li><li id="menu-item-21195" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-21195"><a class="w-nav-anchor level_1" href="https://surabaya.proxsisgroup.com/feedback/"><span class="w-nav-title">Feedback</span><span class="w-nav-arrow"></span></a></li><li class="w-nav-close"></li></ul><div class="w-nav-options hidden" onclick='return {&quot;mobileWidth&quot;:1023,&quot;mobileBehavior&quot;:0}'></div></nav><div class="w-search ush_search_1 layout_modern"><a class="w-search-open" aria-label="Search" href="javascript:void(0);"><i class="fas fa-search"></i></a><div class="w-search-form"><form class="w-form-row for_text" action="https://surabaya.proxsisgroup.com/" method="get"><div class="w-form-row-field"><input type="text" name="s" id="us_form_search_s" placeholder="Search" aria-label="Search" value /></div><a class="w-search-close" aria-label="Close" href="javascript:void(0);"></a></form></div></div></div></div></div><div class="l-subheader for_hidden hidden"></div></header><main id="page-content" class="l-main" itemprop="mainContentOfPage">
+<style data-type="us_custom-css">#blog_subscription-2 h3{
+    text-align:center !important;
+}
+.widget h3{
+    font-size:19px;
+    text-align:left !important;
+}</style><section class="l-section wpb_row height_medium"><div class="l-section-h i-cf"><div class="g-cols via_flex valign_top type_boxes"><div class="vc_col-sm-8 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="w-hwrapper align_none valign_top" style="--hwrapper-gap:1.5rem"><div class="w-post-elm post_taxonomy us_custom_9de87d4e style_simple"><a href="https://surabaya.proxsisgroup.com/category/artikel-quality-productivity/">Artikel Quality &amp; Productivity</a></div><time class="w-post-elm post_date us_custom_064d3121 entry-date published" datetime="2018-03-06T10:55:47+07:00" itemprop="datePublished">March 6, 2018</time></div><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div><h3 class="w-post-elm post_title us_custom_9de87d4e entry-title color_link_inherit">5 Cara Sederhana Mengelola Stok Barang di Gudang</h3><div class="w-hwrapper align_none valign_top"><div class="wpb_text_column"><div class="wpb_wrapper"><p><strong>Bagikan:</strong></p>
+</div></div><div class="w-sharing type_simple align_none color_default"><div class="w-sharing-list"><a class="w-sharing-item email" href="/cdn-cgi/l/email-protection#aa95d9dfc8c0cfc9de979f8ae9cbd8cb8af9cfcecfd8c2cbc4cb8ae7cfc4cdcfc6c5c6cb8af9dec5c18ae8cbd8cbc4cd8acec38aeddfcecbc4cd8ccbc7da91c8c5ced397c2dededad9908585d9dfd8cbc8cbd3cb84dad8c5d2d9c3d9cdd8c5dfda84c9c5c7859f87c9cbd8cb87d9cfcecfd8c2cbc4cb87c7cfc4cdcfc6c5c6cb87d9dec5c187c8cbd8cbc4cd87cec387cddfcecbc4cd85" title="Email this" aria-label="Email this"><i class="fas fa-envelope"></i></a><a class="w-sharing-item facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/&amp;quote=5 Cara Sederhana Mengelola Stok Barang di Gudang" title="Share this" aria-label="Share this" onclick="window.open(this.href, &quot;facebook&quot;, &quot;toolbar=0,width=900,height=500&quot;); return false;"><i class="fab fa-facebook"></i></a><a class="w-sharing-item twitter" href="https://twitter.com/intent/tweet?text=5 Cara Sederhana Mengelola Stok Barang di Gudang&amp;url=https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/" title="Tweet this" aria-label="Tweet this" onclick="window.open(this.href, &quot;twitter&quot;, &quot;toolbar=0,width=650,height=360&quot;); return false;"><i class="fab fa-twitter"></i></a><a class="w-sharing-item linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/" title="Share this" aria-label="Share this" onclick="window.open(this.href, &quot;linkedin&quot;, &quot;toolbar=no,width=550,height=550&quot;); return false;"><i class="fab fa-linkedin"></i></a><a class="w-sharing-item whatsapp" href="https://web.whatsapp.com/send?text=5 Cara Sederhana Mengelola Stok Barang di Gudang https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/" title="Share this" aria-label="Share this" onclick="window.open(this.href, &quot;whatsapp&quot;, &quot;toolbar=0,width=900,height=500&quot;); return false;"><i class="fab fa-whatsapp"></i></a></div></div></div><div class="w-post-elm post_image stretched"><img width="570" height="300" src="https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/5-Cara-Sederhana-Mengelola-Stok-Barang-di-Gudang.jpeg" class="attachment-large size-large wp-post-image" alt="5 Cara Sederhana Mengelola Stok Barang di Gudang" decoding="async" srcset="https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/5-Cara-Sederhana-Mengelola-Stok-Barang-di-Gudang.jpeg 570w, https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/5-Cara-Sederhana-Mengelola-Stok-Barang-di-Gudang-300x158.jpeg 300w, https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/5-Cara-Sederhana-Mengelola-Stok-Barang-di-Gudang-500x263.jpeg 500w" sizes="(max-width: 570px) 100vw, 570px" /></div><div class="w-post-elm post_content" itemprop="text"><p style="font-weight: 400; text-align: justify;">Mengelola stok barang merupakan tantangan terbesar bagi perusahaan yang memiliki banyak cabang. Mengapa begitu? Hal ini karena sulitnya untuk mengontrol barang yang ada di cabang, apalagi jika cabang Anda tidak hanya satu. Jika bisnis Anda bergerak di bidang jual beli rumah atau mobil, ini mungkin akan sedikit mudah karena barang yang dijual berukuran besar dan biasanya berjumlah sedikit. Tapi jika Anda menjalani bisnis retail yang memiliki banyak barang dengan item hingga ribuan, maka hal ini akan sangat memusingkan.</p>
+<p style="font-weight: 400; text-align: justify;">Karena gudang berkaitan langsung dengan penjualan, manajemen gudang sangat penting untuk kelangsungan bisnis Anda. Di mana, saat stok persediaan barang di gudang tidak sesuai dengan penjualan, maka akan berdampak pada kerugian, entah karena penjualan gagal ataupun persediaan yang tersedia di gudang terlalu banyak. Berikut adalah beberapa cara sederhana dalam mengelola stok barang di gudang agar bisnis Anda dapat berlangsung dengan baik.</p>
+<p><img decoding="async" loading="lazy" class="wp-image-14245 aligncenter" src="//surabaya.proxsisgroup.com/wp-content/uploads/2018/03/warehouse-worker-man-towing-hand-fork.jpg" alt="mengontrol stok barang" width="600" height="600" srcset="https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/warehouse-worker-man-towing-hand-fork.jpg 626w, https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/warehouse-worker-man-towing-hand-fork-300x300.jpg 300w, https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/warehouse-worker-man-towing-hand-fork-150x150.jpg 150w, https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/warehouse-worker-man-towing-hand-fork-600x600.jpg 600w, https://surabaya.proxsisgroup.com/wp-content/uploads/2018/03/warehouse-worker-man-towing-hand-fork-200x200.jpg 200w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<h3 style="text-align: justify;"><b>Persiapkan Data Seakurat Mungkin</b></h3>
+<p style="font-weight: 400; text-align: justify;">Saat melakukan persiapan data, tugaskan individu secara khusus yang bertanggung jawab dalam melakukan pencatatan. Individu tersebut harus melakukan pencatatan seakurat mungkin seperti <i>input </i>stok masuk dan stok keluar yang dapat dibantu dengan program pendukung agar proses pencatatan lebih akurat. Tujuan dilakukannya hal ini adalah agar Anda mengetahui terlebih dahulu data dari periode sebelumnya, lalu menentukan target pemasaran serta ramalan (<i>forecast</i>) penjualan pada periode saat ini.</p>
+<p style="font-weight: 400; text-align: justify;">Beberapa perusahaan distributor atau produsen sekalipun terkadang menggunakan sistem <i>pre-order </i>dan data pesanan yang masuk akan dijadikan sebagai landasan untuk menentukan angka persediaan. Guna mengembangkan bisnis distributor yang masuk, Anda juga harus melakukan diskusi dan berkonsultasi lebih dalam dengan tim pemasaran ketika ingin menentukan angka persediaan stok Anda.</p>
+<h3 style="text-align: justify;"><b>Membuat </b><b><i>Forecast</i></b><b> Persediaan</b></h3>
+<p style="font-weight: 400; text-align: justify;">Setelah Anda mengumpulkan data <i>input </i>dan <i>output </i>barang, langkah selanjutnya yang harus dilakukan adalah membuat <i>forecast</i> atau perkiraan persediaan stok barang berupa jumlah persediaan yang dibutuhkan pada periode ini. Hal ini bukan tahap yang mudah bila Anda memiliki penjualan produk dengan jenis yang bermacam-macam. Ini juga akan menjadi sulit karena dalam langkah ini Anda harus menentukan jumlah per item.</p>
+<h3 style="text-align: justify;"><b>Lakukan Pengecekan Sebelum Barang Disimpan</b></h3>
+<p style="font-weight: 400; text-align: justify;">Langkah selanjutnya adalah memastikan bahwa Anda selalu melakukan pengecekan barang sebelum memasukkannya ke dalam rak. Pengecekan ini bisa dilakukan sebelum pemberian kode agar Anda bisa mengetahui ada atau tidaknya barang yang dicatat dalam tumpukan stok barang. Pengecekan ini juga bisa membantu untuk mengetahui barang mana yang mengalami kecacatan, salah produksi, dan kesalahan lainnya sebelum memutuskan untuk menyimpannya. Khusus untuk barang-barang yang cacat, Anda bisa mengumpulkannya ke dalam satu tempat lain dan jangan lupa pula untuk memberikan tanda atau catatan kecil mengenai keterangan cacat.</p>
+<h3 style="text-align: justify;"><b>Memberikan Kode di Setiap Barang</b></h3>
+<p style="font-weight: 400; text-align: justify;">Pemberian kode pada tiap barang akan sangat membantu ketika melakukan penjualan barang. Sebagai contoh, jika ada seorang pelanggan yang membeli baju dengan kode MM berwarna merah muda, maka sebagai penjual, Anda akan secara langsung paham dengan apa yang ditanyakan dan dipesan oleh pelanggan. Jika barang-barang tidak diberikan kode, maka transaksi yang akan dilaksanakan pun terasa lebih sulit dan dapat mengurangi citra perusahaan Anda di mata pelanggan. Selain itu, kode juga akan membantu saat menata barang di gudang.</p>
+<h3 style="text-align: justify;"><b>Pisahkan Stok Baru dan Stok Lama</b></h3>
+<p style="font-weight: 400; text-align: justify;">Mencampur aduk stok baru dan lama hanya akan membuat bingung ketika melakukan pencatatan dan pengecekan stok barang. Ketika ada kedua barang ini, ada baiknya Anda memisahkan stok lama dan stok baru untuk mempermudah perhitungan jumlah stok lama yang terjual dan belum terjual. Anda juga bisa menyediakan satu tempat khusus untuk stok baru agar menghindari tercampurnya stok barang yang baru dan juga yang lama.</p>
+<p style="font-weight: 400; text-align: justify;">Kelima cara di atas dapat Anda terapkan dengan mudah untuk mengelola stok barang di gudang. Pastikan juga Anda telah menggunakan sistem percatatan yang sesuai dengan kebutuhan bisnis. Sistem yang bagus akan menjadi aset bisnis Anda karena dapat mengamankan stok dan memberikan keuntungan.</p>
+<p style="text-align: center;"><strong>IPQI Learning Center mengadakan<br />
+</strong><strong>Training <a href="https://surabaya.proxsisgroup.com/training-warehouse-management-distribution-system/">Warehouse Management &amp; Distribution System</a> (FIX RUNNING)<br />
+pada tanggal 21-22 April 2021<br />
+Segera Daftarkan diri anda ke Contact Person Kami<br />
+Yanti | cs.sby</strong><a href="/cdn-cgi/l/email-protection#3457471a47564d7444465b4c475d4753465b41441a575b59"><strong>@proxsisgroup.com</strong></a><strong> |08111798353</strong></p>
+<p>Sumber: <a href="//www.jurnal.id/id/blog/2017/5-cara-sederhana-mengelola-stok-barang-pada-gudang">//www.jurnal.id/id/blog/2017/5-cara-sederhana-mengelola-stok-barang-pada-gudang</a></p>
+<div id='jp-relatedposts' class='jp-relatedposts'>
+<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div><div class="w-hwrapper align_none valign_top"><div class="wpb_text_column"><div class="wpb_wrapper"><p><strong>Tag:</strong></p>
+</div></div><div class="w-post-elm post_taxonomy us_custom_f4397b66 style_badge"><div class="w-post-elm-list"><a class="w-btn us-btn-style_9" href="https://surabaya.proxsisgroup.com/tag/manajemen-pergudangan/" rel="tag"><span class="w-btn-label">manajemen pergudangan</span></a><a class="w-btn us-btn-style_9" href="https://surabaya.proxsisgroup.com/tag/training-warehouse/" rel="tag"><span class="w-btn-label">training warehouse</span></a><a class="w-btn us-btn-style_9" href="https://surabaya.proxsisgroup.com/tag/warehouse-management-system/" rel="tag"><span class="w-btn-label">warehouse management system</span></a></div></div></div><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="w-hwrapper align_none valign_top"><div class="wpb_text_column"><div class="wpb_wrapper"><p><strong>Bagikan:</strong></p>
+</div></div><div class="w-sharing type_simple align_none color_default"><div class="w-sharing-list"><a class="w-sharing-item email" href="/cdn-cgi/l/email-protection#7e410d0b1c141b1d0a434b5e3d1f0c1f5e2d1b1a1b0c161f101f5e331b10191b1211121f5e2d0a11155e3c1f0c1f10195e1a175e390b1a1f1019581f130e451c111a0743160a0a0e0d4451510d0b0c1f1c1f071f500e0c11060d170d190c110b0e501d1113514b531d1f0c1f530d1b1a1b0c161f101f53131b10191b1211121f530d0a1115531c1f0c1f1019531a1753190b1a1f101951" title="Email this" aria-label="Email this"><i class="fas fa-envelope"></i></a><a class="w-sharing-item facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/&amp;quote=5 Cara Sederhana Mengelola Stok Barang di Gudang" title="Share this" aria-label="Share this" onclick="window.open(this.href, &quot;facebook&quot;, &quot;toolbar=0,width=900,height=500&quot;); return false;"><i class="fab fa-facebook"></i></a><a class="w-sharing-item twitter" href="https://twitter.com/intent/tweet?text=5 Cara Sederhana Mengelola Stok Barang di Gudang&amp;url=https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/" title="Tweet this" aria-label="Tweet this" onclick="window.open(this.href, &quot;twitter&quot;, &quot;toolbar=0,width=650,height=360&quot;); return false;"><i class="fab fa-twitter"></i></a><a class="w-sharing-item linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/" title="Share this" aria-label="Share this" onclick="window.open(this.href, &quot;linkedin&quot;, &quot;toolbar=no,width=550,height=550&quot;); return false;"><i class="fab fa-linkedin"></i></a><a class="w-sharing-item whatsapp" href="https://web.whatsapp.com/send?text=5 Cara Sederhana Mengelola Stok Barang di Gudang https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/" title="Share this" aria-label="Share this" onclick="window.open(this.href, &quot;whatsapp&quot;, &quot;toolbar=0,width=900,height=500&quot;); return false;"><i class="fab fa-whatsapp"></i></a></div></div></div></div></div></div><div class="vc_col-sm-4 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_widgetised_column wpb_content_element widget">
+<div class="wpb_wrapper">
+<div id="text-7" class="widget widget_text"><h3 class="widgettitle">Request Presentation</h3> <div class="textwidget"><p style="text-align: center;"><a href="https://surabaya.proxsisgroup.com/our-solutions/1601-2/"><img class="size-thumbnail wp-image-1560 aligncenter" title="sample-logo-design-1 copy" src="https://surabaya.proxsisgroup.com/wp-content/uploads/Requests-copy.png" alt="" width="200" height="200" align="center" /></a></p></div>
+</div><div id="text-22" class="widget widget_text"><h3 class="widgettitle">Agenda Terdekat Productivity Quality</h3> <div class="textwidget"><p><img decoding="async" loading="lazy" class="alignnone size-us_500_500 wp-image-23035" src="https://surabaya.proxsisgroup.com/wp-content/uploads/2022/12/FLYER-IPQI-SCM-Desember-2022.jpg" alt="" width="300" height="300" /><br />
+<img decoding="async" loading="lazy" class="alignnone size-us_500_500 wp-image-23036" src="https://surabaya.proxsisgroup.com/wp-content/uploads/2022/12/FLYER-IPQI-PPIC-Desember-2022.jpg" alt="" width="300" height="300" /><br />
+<img class="alignnone size-us_500_500 wp-image-23037" src=https://surabaya.proxsisgroup.com/wp-content/uploads/2022/12/FLYER-IPQI-Kalibrasi-MST-Desember-2022.jpg" alt="" width="300" height="300" /><br />
+<img decoding="async" loading="lazy" class="alignnone size-us_500_500 wp-image-23038" src="https://surabaya.proxsisgroup.com/wp-content/uploads/2022/12/FLYER-IPQI-Kalibrasi-Gaya-Desember-2022.jpg" alt="" width="300" height="300" /></p>
+</div>
+</div><div id="text-26" class="widget widget_text"><h3 class="widgettitle">Layanan Kalibrasi</h3> <div class="textwidget"><p><img decoding="async" loading="lazy" class="alignnone size-us_500_500 wp-image-22970" src="https://surabaya.proxsisgroup.com/wp-content/uploads/2022/04/KATALOG-IPQI-Jasa-Kalibrasi-rev-500x500.jpg" alt="" width="500" height="500" srcset="https://surabaya.proxsisgroup.com/wp-content/uploads/2022/04/KATALOG-IPQI-Jasa-Kalibrasi-rev-500x500.jpg 500w, https://surabaya.proxsisgroup.com/wp-content/uploads/2022/04/KATALOG-IPQI-Jasa-Kalibrasi-rev-300x300.jpg 300w, https://surabaya.proxsisgroup.com/wp-content/uploads/2022/04/KATALOG-IPQI-Jasa-Kalibrasi-rev.jpg 1024w, https://surabaya.proxsisgroup.com/wp-content/uploads/2022/04/KATALOG-IPQI-Jasa-Kalibrasi-rev-150x150.jpg 150w, https://surabaya.proxsisgroup.com/wp-content/uploads/2022/04/KATALOG-IPQI-Jasa-Kalibrasi-rev-400x400.jpg 400w, https://surabaya.proxsisgroup.com/wp-content/uploads/2022/04/KATALOG-IPQI-Jasa-Kalibrasi-rev-200x200.jpg 200w, https://surabaya.proxsisgroup.com/wp-content/uploads/2022/04/KATALOG-IPQI-Jasa-Kalibrasi-rev-800x800.jpg 800w, https://surabaya.proxsisgroup.com/wp-content/uploads/2022/04/KATALOG-IPQI-Jasa-Kalibrasi-rev-600x600.jpg 600w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+</div>
+</div><div id="text-24" class="widget widget_text"> <div class="textwidget"></div>
+</div><div id="text-32" class="widget widget_text"> <div class="textwidget"></div>
+</div><div id="text-30" class="widget widget_text"> <div class="textwidget"></div>
+</div><div id="text-31" class="widget widget_text"> <div class="textwidget"></div>
+</div><div id="text-21" class="widget widget_text"><h3 class="widgettitle">Download Jadwal Training 2022</h3> <div class="textwidget"><p>&nbsp;</p>
+<p style="text-align: center;"><a href="https://surabaya.proxsisgroup.com/download-jadwal-training/">Download Sekarang!</a></p>
+<p>&nbsp;</p>
+</div>
+</div><div id="text-9" class="widget widget_text"><h3 class="widgettitle">Proxsis TV</h3> <div class="textwidget"><p><iframe loading="lazy" src="https://www.youtube.com/embed/HFqlhEPrKDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+</div><div id="text-18" class="widget widget_text"> <div class="textwidget">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='//embed.tawk.to/59250d038028bb732704774f/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div></div></section>
+</main>
+</div>
+<footer id="page-footer" class="l-footer" itemscope itemtype="https://schema.org/WPFooter">
+<style data-type="us_custom-css">.widgettitle{
+    text-align:center;
+}
+
+#subscribe-blog-blog_subscription-2{
+    text-align:center;
+	font-size:18px;
+}</style><section class="l-section wpb_row us_custom_2f58e7cb height_medium has_text_color"><div class="l-section-overlay" style="background:#141414"></div><div class="l-section-h i-cf"><div class="g-cols via_flex valign_top type_default"><div class="vc_col-sm-12 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="g-cols wpb_row via_flex valign_top type_default"><div class="vc_col-sm-3 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="vc_col-sm-6 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_widgetised_column wpb_content_element">
+<div class="wpb_wrapper">
+<div id="blog_subscription-2" class="widget widget_blog_subscription jetpack_subscription_widget"><h3 class="widgettitle">Subscribe &amp; Stay Updated</h3>
+<div class="wp-block-jetpack-subscriptions__container">
+<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2" data-blog="120363445" data-post_access_level="everybody">
+<p id="subscribe-email">
+<label id="jetpack-subscribe-label" class="screen-reader-text" for="subscribe-field-blog_subscription-2">
+Email Address </label>
+<input type="email" name="email" required="required" value="" id="subscribe-field-blog_subscription-2" placeholder="Email Address" />
+</p>
+<p id="subscribe-submit">
+<input type="hidden" name="action" value="subscribe" />
+<input type="hidden" name="source" value="https://surabaya.proxsisgroup.com/5-cara-sederhana-mengelola-stok-barang-di-gudang/" />
+<input type="hidden" name="sub-type" value="widget" />
+<input type="hidden" name="redirect_fragment" value="subscribe-blog-blog_subscription-2" />
+<button type="submit" class="wp-block-button__link" name="jetpack_subscriptions_widget">
+Subscribe Now! </button>
+</p>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div></div></div><div class="vc_col-sm-3 wpb_column vc_column_container"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div><div class="ult-spacer spacer-6454d6f639998" data-id="6454d6f639998" data-height="30" data-height-mobile="30" data-height-tab="30" data-height-tab-portrait="30" data-height-mobile-landscape="30" style="clear:both;display:block;"></div><div class="w-socials us_custom_eb849559 color_text shape_square style_default hover_fade"><div class="w-socials-list"><div class="w-socials-item instagram"><a class="w-socials-item-link" href="https://www.instagram.com/proxsisacademyeast/" target="_blank" rel="noopener nofollow" title="Instagram" aria-label="Instagram"><span class="w-socials-item-link-hover"></span><i class="fab fa-instagram"></i></a><div class="w-socials-item-popup"><span>Instagram</span></div></div><div class="w-socials-item facebook"><a class="w-socials-item-link" href="https://www.facebook.com/proxsisacademyeast" target="_blank" rel="noopener nofollow" title="Facebook" aria-label="Facebook"><span class="w-socials-item-link-hover"></span><i class="fab fa-facebook"></i></a><div class="w-socials-item-popup"><span>Facebook</span></div></div><div class="w-socials-item linkedin"><a class="w-socials-item-link" href="https://www.linkedin.com/showcase/proxsis-academy-east/" target="_blank" rel="noopener nofollow" title="LinkedIn" aria-label="LinkedIn"><span class="w-socials-item-link-hover"></span><i class="fab fa-linkedin"></i></a><div class="w-socials-item-popup"><span>LinkedIn</span></div></div><div class="w-socials-item twitter"><a class="w-socials-item-link" href="https://twitter.com/proxsis" target="_blank" rel="noopener nofollow" title="Twitter" aria-label="Twitter"><span class="w-socials-item-link-hover"></span><i class="fab fa-twitter"></i></a><div class="w-socials-item-popup"><span>Twitter</span></div></div></div></div><div class="wpb_text_column"><div class="wpb_wrapper"><p style="text-align: center;">© 2023 All rights reserved. PT Proxsis Manajemen Internasional</p>
+</div></div></div></div></div></div></div></section>
+</footer>
+<a class="w-toplink pos_right w-btn us-btn-style_7" href="#" title="Back to top" aria-label="Back to top"><span></span></a> <a id="w-header-show" class="w-header-show" href="javascript:void(0);"><span>Menu</span></a>
+<div class="w-header-overlay"></div>
+<script>
+		// Store some global theme options used in JS
+		if ( window.$us === undefined ) {
+			window.$us = {};
+		}
+		$us.canvasOptions = ( $us.canvasOptions || {} );
+		$us.canvasOptions.disableEffectsWidth = 900;
+		$us.canvasOptions.columnsStackingWidth = 768;
+		$us.canvasOptions.backToTopDisplay = 100;
+		$us.canvasOptions.scrollDuration = 1000;
+
+		$us.langOptions = ( $us.langOptions || {} );
+		$us.langOptions.magnificPopup = ( $us.langOptions.magnificPopup || {} );
+		$us.langOptions.magnificPopup.tPrev = 'Previous (Left arrow key)';
+		$us.langOptions.magnificPopup.tNext = 'Next (Right arrow key)';
+		$us.langOptions.magnificPopup.tCounter = '%curr% of %total%';
+
+		$us.navOptions = ( $us.navOptions || {} );
+		$us.navOptions.mobileWidth = 900;
+		$us.navOptions.togglable = true;
+		$us.ajaxLoadJs = true;
+		$us.templateDirectoryUri = 'https://surabaya.proxsisgroup.com/wp-content/themes/Impreza';
+	</script>
+<script>if ( window.$us === undefined ) window.$us = {};$us.headerSettings = {"default":{"options":{"breakpoint":"900px","orientation":"hor","sticky":true,"sticky_auto_hide":false,"scroll_breakpoint":"100px","transparent":"0","width":"300px","elm_align":"center","shadow":"wide","top_show":false,"top_height":"40px","top_sticky_height":"40px","top_fullwidth":false,"top_centering":false,"top_bg_color":"_header_top_bg","top_text_color":"_header_top_text","top_text_hover_color":"_header_top_text_hover","top_transparent_bg_color":"_header_top_transparent_bg","top_transparent_text_color":"_header_top_transparent_text","top_transparent_text_hover_color":"_header_top_transparent_text_hover","middle_height":"70px","middle_sticky_height":"60px","middle_fullwidth":"1","middle_centering":"0","elm_valign":"top","bg_img":"","bg_img_wrapper_start":"","bg_img_size":"cover","bg_img_repeat":"repeat","bg_img_position":"top left","bg_img_attachment":true,"bg_img_wrapper_end":"","middle_bg_color":"_header_middle_bg","middle_text_color":"_header_middle_text","middle_text_hover_color":"_header_middle_text_hover","middle_transparent_bg_color":"_header_transparent_bg","middle_transparent_text_color":"_header_transparent_text","middle_transparent_text_hover_color":"_header_transparent_text_hover","bottom_show":false,"bottom_height":"50px","bottom_sticky_height":"50px","bottom_fullwidth":false,"bottom_centering":false,"bottom_bg_color":"_header_middle_bg","bottom_text_color":"_header_middle_text","bottom_text_hover_color":"_header_middle_text_hover","bottom_transparent_bg_color":"_header_transparent_bg","bottom_transparent_text_color":"_header_transparent_text","bottom_transparent_text_hover_color":"_header_transparent_text_hover"},"layout":{"top_left":[],"top_center":[],"top_right":[],"middle_left":["image:1"],"middle_center":[],"middle_right":["menu:1","search:1"],"bottom_left":[],"bottom_center":[],"bottom_right":[],"hidden":[]}},"tablets":{"options":{"breakpoint":"900px","orientation":"hor","sticky":true,"sticky_auto_hide":false,"scroll_breakpoint":"100px","transparent":"0","width":"300px","elm_align":"center","shadow":"thin","top_show":false,"top_height":"40px","top_sticky_height":"40px","top_fullwidth":false,"top_centering":false,"top_bg_color":"_header_top_bg","top_text_color":"_header_top_text","top_text_hover_color":"_header_top_text_hover","top_transparent_bg_color":"_header_top_transparent_bg","top_transparent_text_color":"_header_top_transparent_text","top_transparent_text_hover_color":"_header_top_transparent_text_hover","middle_height":"80px","middle_sticky_height":"60px","middle_fullwidth":false,"middle_centering":false,"elm_valign":"top","bg_img":"","bg_img_wrapper_start":"","bg_img_size":"cover","bg_img_repeat":"repeat","bg_img_position":"top left","bg_img_attachment":true,"bg_img_wrapper_end":"","middle_bg_color":"_header_middle_bg","middle_text_color":"_header_middle_text","middle_text_hover_color":"_header_middle_text_hover","middle_transparent_bg_color":"_header_transparent_bg","middle_transparent_text_color":"_header_transparent_text","middle_transparent_text_hover_color":"_header_transparent_text_hover","bottom_show":false,"bottom_height":"50px","bottom_sticky_height":"50px","bottom_fullwidth":false,"bottom_centering":false,"bottom_bg_color":"_header_middle_bg","bottom_text_color":"_header_middle_text","bottom_text_hover_color":"_header_middle_text_hover","bottom_transparent_bg_color":"_header_transparent_bg","bottom_transparent_text_color":"_header_transparent_text","bottom_transparent_text_hover_color":"_header_transparent_text_hover","custom_breakpoint":1},"layout":{"top_left":[],"top_center":[],"top_right":[],"middle_left":["menu:1"],"middle_center":["image:1"],"middle_right":["search:1"],"bottom_left":[],"bottom_center":[],"bottom_right":[],"hidden":[]}},"mobiles":{"options":{"breakpoint":"600px","orientation":"hor","sticky":true,"sticky_auto_hide":false,"scroll_breakpoint":"100px","transparent":"0","width":"300px","elm_align":"center","shadow":"thin","top_show":false,"top_height":"40px","top_sticky_height":"40px","top_fullwidth":false,"top_centering":false,"top_bg_color":"_header_top_bg","top_text_color":"_header_top_text","top_text_hover_color":"_header_top_text_hover","top_transparent_bg_color":"_header_top_transparent_bg","top_transparent_text_color":"_header_top_transparent_text","top_transparent_text_hover_color":"_header_top_transparent_text_hover","middle_height":"50px","middle_sticky_height":"60px","middle_fullwidth":false,"middle_centering":false,"elm_valign":"top","bg_img":"","bg_img_wrapper_start":"","bg_img_size":"cover","bg_img_repeat":"repeat","bg_img_position":"top left","bg_img_attachment":true,"bg_img_wrapper_end":"","middle_bg_color":"_header_middle_bg","middle_text_color":"_header_middle_text","middle_text_hover_color":"_header_middle_text_hover","middle_transparent_bg_color":"_header_transparent_bg","middle_transparent_text_color":"_header_transparent_text","middle_transparent_text_hover_color":"_header_transparent_text_hover","bottom_show":false,"bottom_height":"50px","bottom_sticky_height":"50px","bottom_fullwidth":false,"bottom_centering":false,"bottom_bg_color":"_header_middle_bg","bottom_text_color":"_header_middle_text","bottom_text_hover_color":"_header_middle_text_hover","bottom_transparent_bg_color":"_header_transparent_bg","bottom_transparent_text_color":"_header_transparent_text","bottom_transparent_text_hover_color":"_header_transparent_text_hover","custom_breakpoint":1},"layout":{"top_left":[],"top_center":[],"top_right":[],"middle_left":["menu:1"],"middle_center":["image:1"],"middle_right":["search:1"],"bottom_left":[],"bottom_center":[],"bottom_right":[],"hidden":[]}},"header_id":"20991","laptops":{"options":{"breakpoint":"900px","orientation":"hor","sticky":true,"sticky_auto_hide":false,"scroll_breakpoint":"100px","transparent":"0","width":"300px","elm_align":"center","shadow":"wide","top_show":false,"top_height":"40px","top_sticky_height":"40px","top_fullwidth":false,"top_centering":false,"top_bg_color":"_header_top_bg","top_text_color":"_header_top_text","top_text_hover_color":"_header_top_text_hover","top_transparent_bg_color":"_header_top_transparent_bg","top_transparent_text_color":"_header_top_transparent_text","top_transparent_text_hover_color":"_header_top_transparent_text_hover","middle_height":"70px","middle_sticky_height":"60px","middle_fullwidth":"1","middle_centering":"0","elm_valign":"top","bg_img":"","bg_img_wrapper_start":"","bg_img_size":"cover","bg_img_repeat":"repeat","bg_img_position":"top left","bg_img_attachment":true,"bg_img_wrapper_end":"","middle_bg_color":"_header_middle_bg","middle_text_color":"_header_middle_text","middle_text_hover_color":"_header_middle_text_hover","middle_transparent_bg_color":"_header_transparent_bg","middle_transparent_text_color":"_header_transparent_text","middle_transparent_text_hover_color":"_header_transparent_text_hover","bottom_show":false,"bottom_height":"50px","bottom_sticky_height":"50px","bottom_fullwidth":false,"bottom_centering":false,"bottom_bg_color":"_header_middle_bg","bottom_text_color":"_header_middle_text","bottom_text_hover_color":"_header_middle_text_hover","bottom_transparent_bg_color":"_header_transparent_bg","bottom_transparent_text_color":"_header_transparent_text","bottom_transparent_text_hover_color":"_header_transparent_text_hover","custom_breakpoint":1},"layout":{"top_left":[],"top_center":[],"top_right":[],"middle_left":["image:1"],"middle_center":[],"middle_right":["menu:1","search:1"],"bottom_left":[],"bottom_center":[],"bottom_right":[],"hidden":[]}}};</script><div style="display: none;"><div id="boxzilla-box-10635-content">
+<section id="yikes-mailchimp-container-1" class="yikes-mailchimp-container yikes-mailchimp-container-1 ">
+<form id="inquiry-form-1" class="yikes-easy-mc-form yikes-easy-mc-form-1  " method="POST" data-attr-form-id="1">
+<label for="yikes-easy-mc-form-1-NAME" class="NAME-label ">
+
+<span class="NAME-label">
+Nama </span>
+
+<input id="yikes-easy-mc-form-1-NAME" name="NAME" placeholder="" class="yikes-easy-mc-text " type="text" value="">
+
+</label>
+<label for="yikes-easy-mc-form-1-EMAIL" class="EMAIL-label yikes-mailchimp-field-required ">
+
+<span class="EMAIL-label">
+Email Address </span>
+
+<input id="yikes-easy-mc-form-1-EMAIL" name="EMAIL" placeholder="" class="yikes-easy-mc-email " required="required" type="email" value="">
+
+</label>
+<label for="yikes-easy-mc-form-1-COMPANY" class="COMPANY-label ">
+
+<span class="COMPANY-label">
+Perusahaan </span>
+
+<input id="yikes-easy-mc-form-1-COMPANY" name="COMPANY" placeholder="" class="yikes-easy-mc-text " type="text" value="">
+
+</label>
+<label for="yikes-easy-mc-form-1-PHONE" class="PHONE-label ">
+
+<span class="PHONE-label">
+Telepon </span>
+
+<input id="yikes-easy-mc-form-1-PHONE" name="PHONE" placeholder="" class="yikes-easy-mc-phone " type="text" data-phone-type="international" title="International Phone Number" pattern="[0-9,-,+]{1,}" value="">
+
+</label>
+<label for="yikes-easy-mc-form-1-NEED" class="NEED-label ">
+
+<span class="NEED-label">
+Kebutuhan </span>
+
+<select id="yikes-easy-mc-form-1-NEED" name="NEED" class="yikes-easy-mc-dropdown ">
+<option value="Kebutuhan Training" selected="selected">
+Kebutuhan Training </option> <option value="Kebutuhan Konsultasi">
+Kebutuhan Konsultasi </option> </select>
+
+</label>
+<label for="yikes-easy-mc-form-1-MESSAGE" class="MESSAGE-label ">
+
+<span class="MESSAGE-label">
+Pesan </span>
+
+ <input id="yikes-easy-mc-form-1-MESSAGE" name="MESSAGE" placeholder="" class="yikes-easy-mc-text " type="text" value="">
+
+</label>
+
+<input type="hidden" name="yikes-mailchimp-honeypot" id="yikes-mailchimp-honeypot-1" value="">
+
+<input type="hidden" name="yikes-mailchimp-associated-list-id" id="yikes-mailchimp-associated-list-id-1" value="8e81a7e0a4">
+
+<input type="hidden" name="yikes-mailchimp-submitted-form" id="yikes-mailchimp-submitted-form-1" value="1">
+
+<button type="submit" class="yikes-easy-mc-submit-button yikes-easy-mc-submit-button-1 btn btn-primary "> <span class="yikes-mailchimp-submit-button-span-text">Submit</span></button> 
+<input type="hidden" id="yikes_easy_mc_new_subscriber_1" name="yikes_easy_mc_new_subscriber" value="37e694f422">
+<input type="hidden" name="_wp_http_referer" value="/5-cara-sederhana-mengelola-stok-barang-di-gudang/" />
+</form>
+
+</section>
+</div></div>
+
+<script id="tawk-script" type="text/javascript">
+var Tawk_API = Tawk_API || {};
+var Tawk_LoadStart=new Date();
+(function(){
+	var s1 = document.createElement( 'script' ),s0=document.getElementsByTagName( 'script' )[0];
+	s1.async = true;
+	s1.src = 'https://embed.tawk.to/59250d038028bb732704774f/default';
+	s1.charset = 'UTF-8';
+	s1.setAttribute( 'crossorigin','*' );
+	s0.parentNode.insertBefore( s1, s0 );
+})();
+</script>
+
+<script async src="https://radar.cedexis.com/1/11475/radar.js"></script>
+<div class="joinchat joinchat--left joinchat--dark-auto joinchat--btn" data-settings='{"telephone":"628111798353","mobile_only":false,"button_delay":2,"whatsapp_web":false,"qr":false,"message_views":2,"message_delay":5,"message_badge":false,"message_send":"Halo Ica, mohon bantuan terkait Layanan Proxsis","message_hash":""}'>
+<div class="joinchat__button">
+<div class="joinchat__button__open"></div>
+<div class="joinchat__tooltip"><div>Butuh Bantuan?</div></div>
+</div>
+</div>
+<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+<link rel='stylesheet' id='js_composer_front-css' href='https://surabaya.proxsisgroup.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.7.0' media='all' />
+<style id='core-block-supports-inline-css'>
+/**
+ * Core styles: block-supports
+ */
+
+</style>
+<script src='https://c0.wp.com/p/woocommerce/7.4.1/assets/js/jquery-blockui/jquery.blockUI.js' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/surabaya.proxsisgroup.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='https://c0.wp.com/p/woocommerce/7.4.1/assets/js/frontend/add-to-cart.js' id='wc-add-to-cart-js'></script>
+<script src='https://c0.wp.com/p/woocommerce/7.4.1/assets/js/js-cookie/js.cookie.js' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://c0.wp.com/p/woocommerce/7.4.1/assets/js/frontend/woocommerce.js' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_7587f028a1f2c1503564a6ec5dc2ad17","fragment_name":"wc_fragments_7587f028a1f2c1503564a6ec5dc2ad17","request_timeout":"5000"};
+</script>
+<script src='https://c0.wp.com/p/woocommerce/7.4.1/assets/js/frontend/cart-fragments.js' id='wc-cart-fragments-js'></script>
+<script id='wc-cart-fragments-js-after'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+		
+</script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/themes/Impreza/js/us.core.min.js?ver=8.2.1' id='us-core-js'></script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.js?ver=4.5.14' id='joinchat-js'></script>
+<script id='boxzilla-js-extra'>
+var boxzilla_options = {"testMode":"","boxes":[{"id":10635,"icon":"&times;","content":"","css":{"color":"#666666","width":350,"border_width":2,"position":"center"},"trigger":false,"animation":"fade","cookie":{"triggered":0,"dismissed":0},"rehide":false,"position":"center","screenWidthCondition":null,"closable":true,"post":{"id":10635,"title":"Inquiry Form","slug":"inquiry-form"}}]};
+</script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/boxzilla/assets/js/script.js?ver=3.2.25' id='boxzilla-js'></script>
+<script defer src='https://stats.wp.com/e-202318.js' id='jetpack-stats-js'></script>
+<script id='jetpack-stats-js-after'>
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'120363445',post:'14243',tz:'7',srv:'surabaya.proxsisgroup.com',j:'1:12.1'} ]);
+_stq.push([ "clickTrackerInit", "120363445", "14243" ]);
+</script>
+<script src='https://surabaya.proxsisgroup.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.7.0' id='wpb_composer_front_js-js'></script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PX54MGL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#cf0017"
+    },
+    "button": {
+      "background": "#77000d"
+    }
+  },
+  "theme": "classic",
+  "position": "top",
+  "static": true,
+  "content": {
+    "href": "http://surabaya.proxsisgroup.com/#contact"
+  }
+});
+</script><script data-no-optimize="1">var litespeed_vary=document.cookie.replace(/(?:(?:^|.*;\s*)_lscache_vary\s*\=\s*([^;]*).*$)|^.*$/,"");litespeed_vary||fetch("/wp-content/plugins/litespeed-cache/guest.vary.php",{method:"POST",cache:"no-cache",redirect:"follow"}).then(e=>e.json()).then(e=>{console.log(e),e.hasOwnProperty("reload")&&"yes"==e.reload&&(sessionStorage.setItem("litespeed_docref",document.referrer),window.location.reload(!0))});</script><script>(function(){var js = "window['__CF$cv$params']={r:'7c29ee319cb340d3',m:'mByl6Jb09veJoJJUjn_Fu6Nu_vqwV2UQbro7y1NMRbA-1683299638-0-AfFdNEF8Itjtm/R9uxVu9DqLKON6JFSW1olsxIXlsgiC',u:'/cdn-cgi/challenge-platform/h/g'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon='{"rayId":"7c29ee319cb340d3","version":"2023.4.0","r":1,"token":"bb127d4e47af4e04a5976912707ba9be","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
+
